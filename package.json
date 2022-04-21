@@ -2,5 +2,23 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "mongodb": "^4.5.0"
-  }
+  },
+  "name": "fantasticfive",
+  "description": "Contains a small setup for connecting and inserting data in MongoDB cluster",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ggsandwich/fantasticfive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ggsandwich/fantasticfive/issues"
+  },
+  "homepage": "https://github.com/3ggsandwich/fantasticfive#readme"
 }
