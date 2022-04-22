@@ -1,0 +1,3605 @@
+[
+{
+"HolderAddress": "0x0000000533d328b444f10101ed67d3b818c5d7ea",
+"Balance": 0.760451765209658
+},
+{
+"HolderAddress": "0x01de2be82fbb78f26fe70fffb39751f7e7f25461",
+"Balance": 0.136637104453801
+},
+{
+"HolderAddress": "0x023b4f66a7edbc96e94619fbd0093ac3fc265043",
+"Balance": "39.978.027.496.099"
+},
+{
+"HolderAddress": "0x025e61c1fba1319f3288b88ec0c59cdb387cd7e1",
+"Balance": "174.879.740.281.978"
+},
+{
+"HolderAddress": "0x029aed4e47eb74e908e7a01176f020d590be71a9",
+"Balance": "1,48E+07"
+},
+{
+"HolderAddress": "0x029b3c7cecfc43712b8252ff42fe0655b1147b34",
+"Balance": "104.790.966.195.611"
+},
+{
+"HolderAddress": "0x02a7cff0ca5819553a9438061f3d90350a0ba82d",
+"Balance": 8300
+},
+{
+"HolderAddress": "0x031543014965f071bc5283d4f74aaf615f15d510",
+"Balance": "134.223.759.044.246"
+},
+{
+"HolderAddress": "0x0337dcbc6f5f2c2ca665fdd487f7d8f23c305b08",
+"Balance": 2001
+},
+{
+"HolderAddress": "0x03413e013064aaaecadc9b6f7ff508290ea9ab7d",
+"Balance": "169.483.874.964.883"
+},
+{
+"HolderAddress": "0x035221cf1bdccd8100531b6b6dcc06fa806a88ba",
+"Balance": "961.447.415.938.647"
+},
+{
+"HolderAddress": "0x035495b687850f79cb1652f416ea7ec19907557c",
+"Balance": "130.656.897.959.001"
+},
+{
+"HolderAddress": "0x036ab2445fc04ad8bd7def4d01d9feddc95008c1",
+"Balance": 0.310191906108736
+},
+{
+"HolderAddress": "0x03743daee1f2386c9f09bbc2c50b3ba81f7d97ed",
+"Balance": "153.950.181.322.834"
+},
+{
+"HolderAddress": "0x0388b3590b58f2d4770bfd2cdb566a854517c5cc",
+"Balance": 0.132882853493768
+},
+{
+"HolderAddress": "0x03b27c1276b719d8089379b3cf655692918b0e58",
+"Balance": "133.749.472.376.831"
+},
+{
+"HolderAddress": "0x03c36eb88183cea1b278957736f8940ca40e6fc1",
+"Balance": "205.302.432.674.073"
+},
+{
+"HolderAddress": "0x03c3c7663a39b87b624fa06546dcb0961ed798d5",
+"Balance": 0.136424317387611
+},
+{
+"HolderAddress": "0x044e9bd003f8c986fbc8e11b10aba1e3c3f73475",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x046fc56ace7e53879a59c389d95c20c22add3c88",
+"Balance": "165.545.601.879.885"
+},
+{
+"HolderAddress": "0x0508c3a6cb083b03d760a2cd7bd28a0a32a63e84",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x052b491a1a436efd097a57966a0d87800d16701e",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x053a5a8a072560ab042c430c6ee5f6e1cb19b49e",
+"Balance": 0.135564191856432
+},
+{
+"HolderAddress": "0x0548b20c31654fdf9f95f0cd465bc3c9b6b06363",
+"Balance": "288.863.994.539.315"
+},
+{
+"HolderAddress": "0x0573b40eff4d28f2ba70a83363833f97cd9cb38d",
+"Balance": "244.360.869.683.892"
+},
+{
+"HolderAddress": "0x05a9b863da79557856529fb2ffeaddb01b66bf17",
+"Balance": "236.479.379.210.586"
+},
+{
+"HolderAddress": "0x05bb41bc8e5a19c475e24dc88faf416c4115d1c5",
+"Balance": "406.235.812.171.132"
+},
+{
+"HolderAddress": "0x0608576ea47b265f1f16b8b8383d0508f703a0cb",
+"Balance": "688.610.024.565.035"
+},
+{
+"HolderAddress": "0x071f78421ac4c71604955320f0745a084db75e1e",
+"Balance": "151.258.285.354.573"
+},
+{
+"HolderAddress": "0x07ac586e48a0f02940dd54d7c6c20d77ecb41172",
+"Balance": "165.795.727.549.739"
+},
+{
+"HolderAddress": "0x082c59a3849c6f6cdfc8078eb378742177fba639",
+"Balance": "192.773.578.346.363"
+},
+{
+"HolderAddress": "0x0845095a1c112d5cefff5328a481cd90e8b16de4",
+"Balance": "766.304.552.016.175"
+},
+{
+"HolderAddress": "0x0892f8fa07086b8b326cc50d6987414b59a921e0",
+"Balance": "479.440.651.785.851"
+},
+{
+"HolderAddress": "0x08f7fb8915097054d8bda24fe181c08d9583199f",
+"Balance": "535.288.635.801.393"
+},
+{
+"HolderAddress": "0x0955cfd6961b287ee370f4e135c8f2a5d1d4c763",
+"Balance": "3.154.763.921.295"
+},
+{
+"HolderAddress": "0x0989c189b7faecda7ebabc28481b2a849cffbcb7",
+"Balance": "749.941.281.550.351"
+},
+{
+"HolderAddress": "0x099044f0c1ceb85bc34c30efeac97e4bf4b684ce",
+"Balance": "171.988.767.438.513"
+},
+{
+"HolderAddress": "0x09b4bc1a153f6bd47ef2bd8d95c6e427234cf9d2",
+"Balance": "635.175.572.009.799"
+},
+{
+"HolderAddress": "0x09c6230e43acdf4aa89ccab18c5cfd3f780459b7",
+"Balance": "143.677.656.916.203"
+},
+{
+"HolderAddress": "0x09c81f941a7d2b611e84998e9643e18041143312",
+"Balance": "117.380.006.202.524"
+},
+{
+"HolderAddress": "0x0a5aafb8ea3b8c48f2d133332ecacdd802b8a953",
+"Balance": "169.100.701.526.812"
+},
+{
+"HolderAddress": "0x0af86051172d0681d6efaef54ae15448afc8a27b",
+"Balance": "138.287.930.396.147"
+},
+{
+"HolderAddress": "0x0b47b1ec9d415d88d4de4577c82f66d904d2c4d3",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x0b7166cb5c9c7ae55e99e0c4e8aac799de51fe91",
+"Balance": 0.131179087353702
+},
+{
+"HolderAddress": "0x0bfc604470106b26f1121bcc5d75f0997f5b4956",
+"Balance": "317.498.449.470.178"
+},
+{
+"HolderAddress": "0x0c172cb40b66061d5fec800380f122c933b11fc5",
+"Balance": "208.533.599.410.138"
+},
+{
+"HolderAddress": "0x0c3359a27e428852d8b79c2ce40123b50a455a6a",
+"Balance": 0.0190094473214737
+},
+{
+"HolderAddress": "0x0c7c1102c7559a4919769bd93f2cdbdbc792a7f3",
+"Balance": "133.691.775.442.218"
+},
+{
+"HolderAddress": "0x0c84cd406b8a4e07df9a1b15ef348023a1dcd075",
+"Balance": 0.00324621621279759
+},
+{
+"HolderAddress": "0x0c978211e17ec2f82f7ea74236e00f01549259ae",
+"Balance": "151.529.765.954.269"
+},
+{
+"HolderAddress": "0x0c9eed14d5f41bdae840cc188bae5540bc725ddf",
+"Balance": "139.756.974.188.881"
+},
+{
+"HolderAddress": "0x0d33725c809a70f6e2c6c65c68a45159b9d2960b",
+"Balance": "151.403.496.329.604"
+},
+{
+"HolderAddress": "0x0d38b8a81b5ad55711275892fae8f1ab92bd89e8",
+"Balance": 0.131858130679937
+},
+{
+"HolderAddress": "0x0e0a4c110484c55a7fe6a3fa541095bd2b025bab",
+"Balance": "797.154.086.560.439"
+},
+{
+"HolderAddress": "0x0efe5514995741be19d380d0e802f26361d1d200",
+"Balance": "16.369.036.735.607"
+},
+{
+"HolderAddress": "0x0f2772d4b2c6745713c6d38a5a43a94957810e41",
+"Balance": "134.331.992.926.079"
+},
+{
+"HolderAddress": "0x0f2ae5cab99e092c239431e086f801525dff95cb",
+"Balance": "727.587.953.595.998"
+},
+{
+"HolderAddress": "0x0f4c95a4acacbd1d5f3807e37401fb9cf5c38acd",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x1022a225cd49fa3c73c9094730a16e5f70ff015b",
+"Balance": "279.277.541.310.154"
+},
+{
+"HolderAddress": "0x115d4924e6e620bae39a478c502d7c1fff650ca0",
+"Balance": 0.623642500568554
+},
+{
+"HolderAddress": "0x117f55225d08788fd59c34cd0f6d33e7a7836996",
+"Balance": 0.72298961188323
+},
+{
+"HolderAddress": "0x11b9dd6d3129eb740011b1a948adcbcb67758a10",
+"Balance": "4,74E+00"
+},
+{
+"HolderAddress": "0x11d8fb1913fd455dddd3d223daf24fe0dc2cf701",
+"Balance": 0.00374317133002715
+},
+{
+"HolderAddress": "0x11ededebf63bef0ea2d2d071bdf88f71543ec6fb",
+"Balance": "180.398.309.848.843"
+},
+{
+"HolderAddress": "0x1223e13ff2316d55efc0a67fb53b80f1cf9dee70",
+"Balance": "182.453.425.257.274"
+},
+{
+"HolderAddress": "0x12356c4294a1dfbf8f7f77be4e8c7c83835f3c8b",
+"Balance": "317.498.414.846.356"
+},
+{
+"HolderAddress": "0x1279318ce3f4e00f88bbe8c2834c2454c6e9c778",
+"Balance": "323.034.402.478.453"
+},
+{
+"HolderAddress": "0x129d000714f0da49be701cfda49d5d3f77331782",
+"Balance": 0.135472561234001
+},
+{
+"HolderAddress": "0x12bf699469a22e16c5dc85ba8b26335e554de809",
+"Balance": "25.743.011.865.277"
+},
+{
+"HolderAddress": "0x13dbc10303c0c9604df748ca4b1556bd135686d2",
+"Balance": "395.727.773.678.042"
+},
+{
+"HolderAddress": "0x140e7364ee4e29a677a9d6ccf26ac945e7e80b65",
+"Balance": "746.274.490.218.156"
+},
+{
+"HolderAddress": "0x14162952b2b40ac4fc58c060a1073549fd56ca52",
+"Balance": 0.131562872467316
+},
+{
+"HolderAddress": "0x1423549a2efd5b08756fa885266ab7999b52e07b",
+"Balance": 0.131244970755358
+},
+{
+"HolderAddress": "0x1467e8098bf4b8c557b51278a3c9b535396a5727",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x14a0430346151e069b71013c11c273517421ebdd",
+"Balance": 0.132975832505132
+},
+{
+"HolderAddress": "0x14a4f2b176b15c6200cc2b0d3aca54c63b9cbf1c",
+"Balance": "403.848.301.590.569"
+},
+{
+"HolderAddress": "0x157b6c44f47ecd30c0a2c428a6f35dbc606aa81b",
+"Balance": "267.012.695.899.829"
+},
+{
+"HolderAddress": "0x1589f20ac6d6984a767f5745e34537753986dbdf",
+"Balance": 0.132227173347849
+},
+{
+"HolderAddress": "0x1606c73933693b64899442f80323bfd2ae7a4126",
+"Balance": "152.158.333.052.455"
+},
+{
+"HolderAddress": "0x164ca2881df7ed7b10e862d6a66b2b296d0aa409",
+"Balance": "581.222.109.035.708"
+},
+{
+"HolderAddress": "0x167f2359734c5fcb69c8ce9d9710196e3a6a8fe9",
+"Balance": "174.665.336.888.585"
+},
+{
+"HolderAddress": "0x16986a9cf326df6e87d172c7e5ac96f8fddad961",
+"Balance": "151.757.948.584.607"
+},
+{
+"HolderAddress": "0x16a3c50f1ec275335cf2feaf96738de54c6ae9a2",
+"Balance": "681.511.374.475.673"
+},
+{
+"HolderAddress": "0x16bbc6dd1c964b34583e3cfbd64cffde8bb89973",
+"Balance": "157.338.948.544.562"
+},
+{
+"HolderAddress": "0x172b0f6768e4a1fffb1b067ad00cb7e592fd4dd7",
+"Balance": "243.108.898.010.607"
+},
+{
+"HolderAddress": "0x17a32604954dc610dc9c61a59972e5f939aeac7a",
+"Balance": "316.482.778.974.266"
+},
+{
+"HolderAddress": "0x1809829b0e472fd1939222accc46372713e37cc2",
+"Balance": "127.501.968.227.584"
+},
+{
+"HolderAddress": "0x1830a1590e0016e61afb99eda617526123a4511c",
+"Balance": 0.136868154942375
+},
+{
+"HolderAddress": "0x183381a03a267714850544abbc18b2cbcd5121f5",
+"Balance": 0.133191006828723
+},
+{
+"HolderAddress": "0x18712a16e0ce45ebd3e1bf2bd057cde03c75456a",
+"Balance": "166.466.444.432.783"
+},
+{
+"HolderAddress": "0x18dab61784283fb0e52c94da097e7d0bef92a222",
+"Balance": "169.305.135.117.224"
+},
+{
+"HolderAddress": "0x18e8156e323176ce2df3fded0223423d2a9d1942",
+"Balance": "354.064.749.647.603"
+},
+{
+"HolderAddress": "0x19eb66b76153baacc77771952be11aa870a02794",
+"Balance": "265.124.857.337.361"
+},
+{
+"HolderAddress": "0x1a1992ac1bec503e82ba04f98c6851702681c35e",
+"Balance": "223.571.328.028.512"
+},
+{
+"HolderAddress": "0x1a8a7ae2508a2623789772e6eeaa084ac406d85f",
+"Balance": "793.064.601.871.308"
+},
+{
+"HolderAddress": "0x1a94d86882058e3ad971ba3ef58001bfd64a686f",
+"Balance": "167.503.287.706.668"
+},
+{
+"HolderAddress": "0x1aaac5f00755e08b24aec5605d1c9a067b089644",
+"Balance": "102.919.186.786.124"
+},
+{
+"HolderAddress": "0x1b2c16ab3f73314393019c326024feb2f8aa2ac8",
+"Balance": "14.590.199.256.176"
+},
+{
+"HolderAddress": "0x1b3dba50bafcf21699e9acef7a41c796c1089233",
+"Balance": "751.687.496.759.835"
+},
+{
+"HolderAddress": "0x1b671749c82bb59e30d6cb2f2bb1358132507eaa",
+"Balance": "128.380.946.863.626"
+},
+{
+"HolderAddress": "0x1b9e7860611395cf6d7d5a46a87522158e47c926",
+"Balance": "997.060.548.271.446"
+},
+{
+"HolderAddress": "0x1bd3896ea2c76cde7b3499b9709ea0b32b0fae90",
+"Balance": "100.000.004.685.162"
+},
+{
+"HolderAddress": "0x1c2d11c1e1a65ebd746b0660afa47cc5fe5e0778",
+"Balance": 0.580368572129784
+},
+{
+"HolderAddress": "0x1c887676d87749262943a8dd1eaa5686ba9c2cab",
+"Balance": "167.482.210.898.857"
+},
+{
+"HolderAddress": "0x1cd2ea7621eb11066b3deb0bfb7c4b50177c9ce2",
+"Balance": 0.723118669028
+},
+{
+"HolderAddress": "0x1cf55c52b9450550317fd8b03092408b3570f9d6",
+"Balance": 0.131619356368354
+},
+{
+"HolderAddress": "0x1d5e9267b36c551d9ccf9c439a84537d0db3d7bd",
+"Balance": 0.135815477848248
+},
+{
+"HolderAddress": "0x1d715219f5ef39d5b6313309179a9e09ad1d865e",
+"Balance": "151.678.834.187.897"
+},
+{
+"HolderAddress": "0x1dcae1b542e5fa62d6a522313388a5b4bae18430",
+"Balance": 0.131667844945099
+},
+{
+"HolderAddress": "0x1dcc0b1b562ebe19b42e6791a250b91ba2328373",
+"Balance": "179.348.530.056.581"
+},
+{
+"HolderAddress": "0x1e09d5798a4c0c93766b09b4e94d0df96bd3d748",
+"Balance": "11.475.007.959.873"
+},
+{
+"HolderAddress": "0x1e0d4a10a3d2b2efcab3bd98fa046bdf6132d676",
+"Balance": "140.489.933.305.134"
+},
+{
+"HolderAddress": "0x1ea53ffc94714fcc82ffe04aba65e89d06e020ee",
+"Balance": "317.499.414.468.675"
+},
+{
+"HolderAddress": "0x1f162562c83153781b599075d49a7cc5a319d97d",
+"Balance": "196.812.969.455.231"
+},
+{
+"HolderAddress": "0x20779bc1055e5891b262203c8600ed048a867a4c",
+"Balance": "4,64E+08"
+},
+{
+"HolderAddress": "0x20d70e8f39af8358b4700c0904338df2faa220b8",
+"Balance": 0.136234718677561
+},
+{
+"HolderAddress": "0x20e60338e5f625e077955d13ffea1af1a9e8826b",
+"Balance": "152.147.132.713.096"
+},
+{
+"HolderAddress": "0x212d5d36a67ead24d851094a0fb64779cc25a7d1",
+"Balance": "361.289.572.167.067"
+},
+{
+"HolderAddress": "0x213e366ef6f1b7adea9234bcb29a926fd03c5657",
+"Balance": "23.246.604.302.943"
+},
+{
+"HolderAddress": "0x21543a89d39730bc239623fd9a41bf379dc3f6f1",
+"Balance": "12.353.825.118.204"
+},
+{
+"HolderAddress": "0x2170ff281c91dfb1405f784252da5ebc3165a4f8",
+"Balance": 0.000349513335920529
+},
+{
+"HolderAddress": "0x221698db85dae3e38fdff8e39bc0b0c66e611121",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x221c90e2b911931f775ba0ff3a25d26509a13edf",
+"Balance": "168.882.840.531.204"
+},
+{
+"HolderAddress": "0x222a0b07a86b72d72237528815e53a602dc4cd1a",
+"Balance": "568.942.673.202.863"
+},
+{
+"HolderAddress": "0x2239ff85f256b0ad09502e6b757ad4c0a747a899",
+"Balance": "118.424.501.472.236"
+},
+{
+"HolderAddress": "0x2271d1f839eaf0a8b227b050ab96bee76d199e4c",
+"Balance": 0.133073525412882
+},
+{
+"HolderAddress": "0x22d3957029bc9b0696dda43a9f4989efdebcc5e3",
+"Balance": "250.570.068.539.474"
+},
+{
+"HolderAddress": "0x23571559214713cb642bc0914ba43d9e9a70a484",
+"Balance": "19.054.945.359.719"
+},
+{
+"HolderAddress": "0x23c14e77e980e8d90851c72678ec5f4255af7874",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x245858182d31b2edffaa2af0f61568ade78a6b84",
+"Balance": "18.086.226.422.399"
+},
+{
+"HolderAddress": "0x24c2fa5fba9b3e09c68b6afd8d697cc9709ce504",
+"Balance": "535.047.844.236.679"
+},
+{
+"HolderAddress": "0x252c6d1de88b7047c7834131a5563d6ac43e6200",
+"Balance": 0.136244033232196
+},
+{
+"HolderAddress": "0x25e13ceba4b4bce10624f1569369bcb8eeffe88c",
+"Balance": "30.810.938.757.016"
+},
+{
+"HolderAddress": "0x2624ba84a16c6877ccd9365ce4233d5544380eb9",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x2649f1968fb5b5b5a393a82f697c96f35920b35c",
+"Balance": "254.694.386.897.389"
+},
+{
+"HolderAddress": "0x26eab0cf20831cd321b0bfed50a4f93aca718940",
+"Balance": "355.116.948.691.701"
+},
+{
+"HolderAddress": "0x27bc720a651511e59a965fd0b27c71d939ff1ecc",
+"Balance": "270.135.259.320.147"
+},
+{
+"HolderAddress": "0x2824bcf86343e65fa593667a260936f605d08407",
+"Balance": "144.310.237.788.606"
+},
+{
+"HolderAddress": "0x2838534ca9f55446ca70ecd8cd6ab46d9e08bc22",
+"Balance": 0.722709755107387
+},
+{
+"HolderAddress": "0x2853409e21025034a8661aaf1069873f41d8b056",
+"Balance": "166.424.408.928.053"
+},
+{
+"HolderAddress": "0x28b334b1baf64597204626bdc793f215a919fc90",
+"Balance": "15.002.384.737.647"
+},
+{
+"HolderAddress": "0x28bd2113effbc9f9c7b980705b1d011362d34b16",
+"Balance": "8,09E+06"
+},
+{
+"HolderAddress": "0x28ddd2fc4a0b46b2cb72cbed65bed49135c8757f",
+"Balance": 0.131094081022733
+},
+{
+"HolderAddress": "0x296905f76587716dcaf3b415224eb19459e0821f",
+"Balance": "162.147.059.884.002"
+},
+{
+"HolderAddress": "0x2a2b2b66b32d2648b47dd680cba92d3a2af655a9",
+"Balance": "484.312.796.614.031"
+},
+{
+"HolderAddress": "0x2a5522acaef83e56974504d7f374f8fd7b39c6d4",
+"Balance": 0.133044716049889
+},
+{
+"HolderAddress": "0x2aceac92fc866f5d70c6b5012aa8171caa5a09fb",
+"Balance": "896.221.380.610.674"
+},
+{
+"HolderAddress": "0x2afb0cb62bd475eb2ec1fcefea51829ebbbb0e52",
+"Balance": 0.553105749786286
+},
+{
+"HolderAddress": "0x2b85e8d6e602b0da9f3cdb9bb89254dd2442d80b",
+"Balance": "148.255.104.807.619"
+},
+{
+"HolderAddress": "0x2b8724ba0a59b27f37d9800a3cb83fc102630520",
+"Balance": 0.136275244274483
+},
+{
+"HolderAddress": "0x2cc89653f711d78c205a22fc6b81a9f54088b806",
+"Balance": "824.081.259.775.326"
+},
+{
+"HolderAddress": "0x2da365252ca0e019f10ecdc2d859b0c6b174411b",
+"Balance": "289.211.368.280.869"
+},
+{
+"HolderAddress": "0x2ddca90ae923a1f4693a8b42d5242cb3d07d9b3e",
+"Balance": "400.122.557.848.535"
+},
+{
+"HolderAddress": "0x2dfe9a6f16499993f98ec87356f37744e4300133",
+"Balance": "219.735.935.532.961"
+},
+{
+"HolderAddress": "0x2e4a1fe2ed7175b037a1486b8e6d3c29af41034a",
+"Balance": 0.131552611526062
+},
+{
+"HolderAddress": "0x2e4c5784e5525b445a953024da8c0467b2113b34",
+"Balance": 0.722745586898443
+},
+{
+"HolderAddress": "0x2e80c6f072cdc316d5cd54cd5697c464c43d7ed5",
+"Balance": "151.339.872.868.409"
+},
+{
+"HolderAddress": "0x2f130de2ceeae0fc335b5791494f3a7cbfee1594",
+"Balance": 0.723065720055431
+},
+{
+"HolderAddress": "0x2f95fe9d66b72c35d088b6c9315287d85aef8797",
+"Balance": 0.723854040274274
+},
+{
+"HolderAddress": "0x2f97a12ce499c54774e8fe5a257ef307c0b58776",
+"Balance": 0.131505289997487
+},
+{
+"HolderAddress": "0x2fc46fff956362f8fcf1a8b7f30b649d9f01dc48",
+"Balance": 0.132416015795124
+},
+{
+"HolderAddress": "0x3086c88b53bada3c0fe0d7984c253350c86869c3",
+"Balance": "286.457.108.337.851"
+},
+{
+"HolderAddress": "0x30b1ab9dee939a83bd72abe14a2ea4568047910f",
+"Balance": 0.552888353341395
+},
+{
+"HolderAddress": "0x3170d7049596b64114968291fbb5ecc78225d01b",
+"Balance": 0.131574806217484
+},
+{
+"HolderAddress": "0x317c3c8488219c8a145586dbafbb9b4822c7879c",
+"Balance": 0.133669302176008
+},
+{
+"HolderAddress": "0x3248f6ae64d0d965f14ae41cb1e493be9d400e30",
+"Balance": "9,87E+08"
+},
+{
+"HolderAddress": "0x3260a0dbaeee457d206abd41dda5e5cca0e5b767",
+"Balance": "52.956.663.302.611"
+},
+{
+"HolderAddress": "0x3275362936378e4eca0e4ca74c31f3cf4ba58407",
+"Balance": 0.132876611335248
+},
+{
+"HolderAddress": "0x32b9e4e93f9c7eae4d114f98e6b9c44215ac8017",
+"Balance": "919.446.839.592.264"
+},
+{
+"HolderAddress": "0x32e9c27344474db5344033531341df384de7f2c4",
+"Balance": "256.947.537.083.826"
+},
+{
+"HolderAddress": "0x32f28e3a1907207a63d7d895f7039bdbf1384d18",
+"Balance": "196.982.814.559.443"
+},
+{
+"HolderAddress": "0x3362a7022dc274ff49460144fc9e2a10f6cf2693",
+"Balance": "99.049.470.389.546"
+},
+{
+"HolderAddress": "0x33bc4394ce1c2f7d2b760d63c94d0e5433f2a30e",
+"Balance": 0.553538879305789
+},
+{
+"HolderAddress": "0x3413bcd828cc1366d9a80eed5ed56cf63c5c7591",
+"Balance": 0.132979717805462
+},
+{
+"HolderAddress": "0x344d6aeaf78108242030295c5301900cc1a89398",
+"Balance": 0.0316613656710274
+},
+{
+"HolderAddress": "0x346a12a389d1d64d2a89a98b7e89ed17649ff1f7",
+"Balance": 0.13291943813521
+},
+{
+"HolderAddress": "0x34ba95fa33ab9542d635b4cf7c9d76b7a400f44c",
+"Balance": "521.510.425.715.213"
+},
+{
+"HolderAddress": "0x34d5da9605f59ebe7238eca72fa3184714c75979",
+"Balance": "195.441.364.601.299"
+},
+{
+"HolderAddress": "0x351e15f995495a12924fab3eb59a26af33626770",
+"Balance": "317.499.172.537.044"
+},
+{
+"HolderAddress": "0x35bf039692bc23d05c6aa9c0d8fabb55d64a0b6b",
+"Balance": "32.636.140.960.647"
+},
+{
+"HolderAddress": "0x3655b49565e623c4b3aaf63b9e133df1c52b46ad",
+"Balance": "637.334.648.990.849"
+},
+{
+"HolderAddress": "0x36db42001dff3b0dc2655f686cddf5eac72dbc2a",
+"Balance": "167.618.378.849.092"
+},
+{
+"HolderAddress": "0x36ed027d7f796426ccbb7f3d15c11a0eee420eae",
+"Balance": 0.62362227312455
+},
+{
+"HolderAddress": "0x3779865b33116a9d5ac21cd650ecfa5ee1784e53",
+"Balance": "162.304.062.349.679"
+},
+{
+"HolderAddress": "0x37abe3c29d19383249e223b94c52580a745026aa",
+"Balance": 0.553160131894843
+},
+{
+"HolderAddress": "0x37bc88400ccbdac5335975213b9b05f7fd915ec8",
+"Balance": "515.681.618.756.013"
+},
+{
+"HolderAddress": "0x37e953db164f56387da793e97d4e8c4651cc3741",
+"Balance": "19.155.054.315.154"
+},
+{
+"HolderAddress": "0x380886e656ce40bd145a9fb85ac7e3dc51d5ee8b",
+"Balance": "158.912.114.825.707"
+},
+{
+"HolderAddress": "0x383c88957e2346d23892a6427869c2630b046f48",
+"Balance": "364.554.146.911.404"
+},
+{
+"HolderAddress": "0x388c2477bb7c65802e7b7ca3287718d9b2f2b310",
+"Balance": "915.842.801.052.625"
+},
+{
+"HolderAddress": "0x3890c6b13de444029c30621e911f0d5b2361810b",
+"Balance": 0.00714153760558472
+},
+{
+"HolderAddress": "0x38b2e29ca96c52370dd5a6089f028dab341ee394",
+"Balance": "7,75E+08"
+},
+{
+"HolderAddress": "0x38b46a38f54d97a4fee197fa208368b5f0c91925",
+"Balance": "161.780.050.655.704"
+},
+{
+"HolderAddress": "0x398d04eae503d4f4dc53f6c9069e5e8746a49c9a",
+"Balance": "656.252.543.113.097"
+},
+{
+"HolderAddress": "0x39beb60bc4c1b8b0ebeedc515c7a56e7dfb3a5a9",
+"Balance": "101.189.430.053.928"
+},
+{
+"HolderAddress": "0x39dab09d9279bde4e2de304dd314f778668c5f08",
+"Balance": 0.00626880460107134
+},
+{
+"HolderAddress": "0x3a109cc5732325aa2b31b452d34d040a0b2ed187",
+"Balance": "200.627.182.390.536"
+},
+{
+"HolderAddress": "0x3ae569c948a5de6874b4c1d4920aaba79e430acc",
+"Balance": "626.057.388.625.341"
+},
+{
+"HolderAddress": "0x3b37a486a7e84c6bf4a8e5d70657f951f3a1c23b",
+"Balance": "151.534.552.993.036"
+},
+{
+"HolderAddress": "0x3b8b16782d05fa2360aa4c5694529405a268910c",
+"Balance": 0.130401468732978
+},
+{
+"HolderAddress": "0x3bbc7dd3b57ea725985bf0da33adde731f4c7295",
+"Balance": "24.397.119.268.374"
+},
+{
+"HolderAddress": "0x3bde6e328a23edad7e91548a38a0b36b35f5639f",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x3c99d623809ea130d477021fb5d3727c46951721",
+"Balance": 0.129657440616568
+},
+{
+"HolderAddress": "0x3cc174e29e29956e15a337dadf074a73d98d6eba",
+"Balance": "157.375.255.313.885"
+},
+{
+"HolderAddress": "0x3cd0d520144206bc01ef1fcb9e931e056f924d34",
+"Balance": "134.166.119.472.551"
+},
+{
+"HolderAddress": "0x3ce6de67f53809910b36e4ead6b6ba1e4405cb06",
+"Balance": "1,00E-18"
+},
+{
+"HolderAddress": "0x3cf3a3b4a9ee300d6fee88c6d4dcd809dd341aad",
+"Balance": 0.163566510411692
+},
+{
+"HolderAddress": "0x3d21cf23ad98af5e017b1da6c8d6b2af55d0b4d0",
+"Balance": 0.131535299981898
+},
+{
+"HolderAddress": "0x3d72817882695b1092f1536349621cf8e4b51f3d",
+"Balance": "142.441.330.822.262"
+},
+{
+"HolderAddress": "0x3dca07e16b2becd3eb76a9f9ce240b525451f887",
+"Balance": 150000
+},
+{
+"HolderAddress": "0x3e11266d586ebcce97aa9c4b7b540429780cff9c",
+"Balance": "380.078.461.154.964"
+},
+{
+"HolderAddress": "0x3e3086a014872dfbf106552dfc3a8f4066698bba",
+"Balance": "665.379.895.068.221"
+},
+{
+"HolderAddress": "0x3e4a5b455d2c8cb1b21831586cc0ddbb9623d2a2",
+"Balance": 0.133347046645933
+},
+{
+"HolderAddress": "0x3e68fca5b47bf0510debb0fa95d51c54b032a1c8",
+"Balance": 0.44578853936019
+},
+{
+"HolderAddress": "0x3ea15b1f03966410871d5fdf45c1e05feda54e1e",
+"Balance": "336.761.635.365.083"
+},
+{
+"HolderAddress": "0x3ec1751e8d36c8d6b1bb7d469114aeadc0686bdb",
+"Balance": 0.133027503826111
+},
+{
+"HolderAddress": "0x3f22b1b24c0770844253f8a624b529f2eeb84887",
+"Balance": "317.499.092.799.575"
+},
+{
+"HolderAddress": "0x3f953af6e449885bbe4ed62f02097aabeef8b409",
+"Balance": "9,23E+08"
+},
+{
+"HolderAddress": "0x3f98fe29a7788a87fe3effa2b3985b20c6129e1e",
+"Balance": "161.782.149.614.946"
+},
+{
+"HolderAddress": "0x3fa424fc247d58397176aeead668afcb06f81fef",
+"Balance": "378.620.411.276.152"
+},
+{
+"HolderAddress": "0x3ffdf60aba1af134d7d353a9bf74a51fb4b34f50",
+"Balance": 0.130619076773919
+},
+{
+"HolderAddress": "0x400cc92925c48a04d2e214a150440cd7e68805b1",
+"Balance": "145.603.379.616.697"
+},
+{
+"HolderAddress": "0x403d94405c18d9cdbc59f13f6e5d4e98ad046754",
+"Balance": "5,22E+04"
+},
+{
+"HolderAddress": "0x405838e6752921a8b12262b258859ecd04856216",
+"Balance": 200
+},
+{
+"HolderAddress": "0x40c3783fdb2084ba6bb9830b0df7eb5fd5c48915",
+"Balance": "191.938.552.968.162"
+},
+{
+"HolderAddress": "0x41114f7c83ddba4ad2f567138ec09b6d94cc8172",
+"Balance": "317.499.184.227.218"
+},
+{
+"HolderAddress": "0x412073fc816dc90c52a4a390c1b6c2d860537149",
+"Balance": 0.137190076495485
+},
+{
+"HolderAddress": "0x42c1fb87419e4034dacf1231f88aa74b25f723b4",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x42d9640dc51d42d70271f0e7119419ee810b95f2",
+"Balance": "317.498.931.261.763"
+},
+{
+"HolderAddress": "0x42db53c0e11f575acd6e058cc5abb74bc0369773",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x437e76922a42ce2db362c745a585f4d54c357593",
+"Balance": "223.868.232.467.709"
+},
+{
+"HolderAddress": "0x43a7f5bc20dadcbfa06f4429fe4fdc38d1d3aeb7",
+"Balance": 0.130971466300125
+},
+{
+"HolderAddress": "0x43ccda6275973913ec16392afec6b1f547afded3",
+"Balance": "16.340.015.613.904"
+},
+{
+"HolderAddress": "0x4405a93240aa5d60dfec5246c74146b14c64534a",
+"Balance": "671.843.284.428.725"
+},
+{
+"HolderAddress": "0x442296cc93035b6b754e4782ee077232a37b76d0",
+"Balance": "194.229.840.265.301"
+},
+{
+"HolderAddress": "0x446966144926f61ced82c7b673ed102137edcf5b",
+"Balance": "225.345.609.228.367"
+},
+{
+"HolderAddress": "0x4470e767ca1fdd1469a8e1e5d7592c4097065402",
+"Balance": "200.601.224.641.194"
+},
+{
+"HolderAddress": "0x44769f146a74abc66faa1a16d9c2b5608edea627",
+"Balance": "148.783.761.459.142"
+},
+{
+"HolderAddress": "0x4478dce1ecb402c50a745b21c1bb5f81c44cf9dc",
+"Balance": "191.494.331.213.566"
+},
+{
+"HolderAddress": "0x448581ab39168abd6b978a56ecc87297ec0448e1",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x448ebe45cf2b494896dec9f21cd42084a5488003",
+"Balance": "174.713.793.447.076"
+},
+{
+"HolderAddress": "0x44f07e2aef6c5658ab24410b2067e3c78167264e",
+"Balance": "742.878.994.686.884"
+},
+{
+"HolderAddress": "0x456d2f646fa3ebbcaa0fb0b13d59a72f891baae6",
+"Balance": 0.686033992601105
+},
+{
+"HolderAddress": "0x459d98777739571b6b1296214beb958b3daea935",
+"Balance": "220.527.574.574.163"
+},
+{
+"HolderAddress": "0x45be24921032a231a31856e1e969aad16e9cf619",
+"Balance": 0.135584143348261
+},
+{
+"HolderAddress": "0x45e48c0a6fe8b759652624451c83387130c58367",
+"Balance": "194.398.386.986.866"
+},
+{
+"HolderAddress": "0x45e5d313030be8e40fceb8f03d55300da6a8799e",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x46158b98511cf61fdddf89fa72a05f8d60318a3d",
+"Balance": "776.875.864.556.777"
+},
+{
+"HolderAddress": "0x461e76a4fe9f27605d4097a646837c32f1ccc31c",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x463a7bf463e2aec6cd4e543e9d8dd93faa12aa10",
+"Balance": "1.138.603.325.986"
+},
+{
+"HolderAddress": "0x465dc8bc343722d78205469eee97029eb2683956",
+"Balance": "257.534.482.210.626"
+},
+{
+"HolderAddress": "0x468083a7f80f88af45ed9db92e7c76d918262f58",
+"Balance": "216.170.945.797.002"
+},
+{
+"HolderAddress": "0x46856cfb4ae2c1d108a62e14c4d85787833bb87e",
+"Balance": 0.722151535964607
+},
+{
+"HolderAddress": "0x46f98d015aeb57171ed7a44a5c7080c45b74aeab",
+"Balance": "16.321.527.618.553"
+},
+{
+"HolderAddress": "0x4785897d46d633dd0502518706fe6f169b74d480",
+"Balance": "349.296.626.635.043"
+},
+{
+"HolderAddress": "0x4793c8d8a055df1abda8b3ebdfa7146561149aef",
+"Balance": 0.661121263384998
+},
+{
+"HolderAddress": "0x4797aa48ecd2ae17bec14c16a18b0a95188c561e",
+"Balance": "489.560.849.591.038"
+},
+{
+"HolderAddress": "0x47f37554a6343203364bb1bc2b828e8714f2b261",
+"Balance": 0.131713141735172
+},
+{
+"HolderAddress": "0x4808693039f91791dcbd99de5b033a5bcc22a88c",
+"Balance": 0.129820342426542
+},
+{
+"HolderAddress": "0x48e21401007d5e579f00dccfeab1fa4d2d04c566",
+"Balance": 0.135205153191675
+},
+{
+"HolderAddress": "0x4908e9e5c0711855dc769ced3e935a9dcfb6f4e5",
+"Balance": 100
+},
+{
+"HolderAddress": "0x490b2417beed3e28c86411462b71caea8eb2f382",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x491f3f53a45879f874873394f21b9ad3509e67f2",
+"Balance": "127.068.613.738.129"
+},
+{
+"HolderAddress": "0x494356e36bae657a14b4dcea943e991a18fec426",
+"Balance": "692.470.151.796.435"
+},
+{
+"HolderAddress": "0x4992b66334a784bb0621269003f2af080427faa4",
+"Balance": 0.723044239547285
+},
+{
+"HolderAddress": "0x49f894e94a2b9e930d50dac8b5a9bb01cf6c540a",
+"Balance": 0.133387256794952
+},
+{
+"HolderAddress": "0x49fa75e4cb606db86afdf253a5677833a760589d",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x4a87b815f3e40b9b49cc2fb01f5dcfd3d2c2d180",
+"Balance": 0.133111234094472
+},
+{
+"HolderAddress": "0x4ac26eee00b8cf4c6d5e10e0499149d826efe327",
+"Balance": "521.951.306.807.364"
+},
+{
+"HolderAddress": "0x4b1a5f9b7834da585fd1bb80466de80673b82d72",
+"Balance": "648.571.362.124.884"
+},
+{
+"HolderAddress": "0x4b5bd9162adf081efc6b742e48c0c833f545ef97",
+"Balance": "577.533.314.042.924"
+},
+{
+"HolderAddress": "0x4ba0be223021b31b3a44c79e6210bd1da432cbca",
+"Balance": "292.808.591.930.484"
+},
+{
+"HolderAddress": "0x4bb6ecabf68b757b9bac6bd8a06887ab7fb393ab",
+"Balance": "428.433.923.168.367"
+},
+{
+"HolderAddress": "0x4bfa3324bdac2367dba667dbf64af5b8f13c1feb",
+"Balance": "153.317.886.849.344"
+},
+{
+"HolderAddress": "0x4bfe9300c16c7235b2d28ec13f95b2eb434c068f",
+"Balance": 0.137165164240141
+},
+{
+"HolderAddress": "0x4c5064f0ef054e6c4aebee738d03110562ef5d1b",
+"Balance": "150.818.880.327.315"
+},
+{
+"HolderAddress": "0x4c66719164fe52a36ad6b1b47c550a9cf4c21a1b",
+"Balance": "258.378.400.887.674"
+},
+{
+"HolderAddress": "0x4cad21d92896b28c2ede39794a68d001f0b44e0d",
+"Balance": "625.671.237.583.152"
+},
+{
+"HolderAddress": "0x4d8d133e16b6b5c0bb16392f990e2fe7fc9a14d5",
+"Balance": 0.722818229418451
+},
+{
+"HolderAddress": "0x4da792b5058f59162e1b619749a0ce4e984d4841",
+"Balance": "160.142.712.396.251"
+},
+{
+"HolderAddress": "0x4e0fa732eada75a5243dd548d98c368aa65ed977",
+"Balance": "748.662.106.991.442"
+},
+{
+"HolderAddress": "0x4e13318d066b7d9d911ad97bc3dce73f955cb9a9",
+"Balance": "134.717.766.585.875"
+},
+{
+"HolderAddress": "0x4e2e0fe85b51047e2d208b7dc6fbab9f48b659c9",
+"Balance": "401.910.168.325.255"
+},
+{
+"HolderAddress": "0x4e646ae030ec01d6eab2c4783ee1b0ba23ec7d7d",
+"Balance": "151.755.573.304.409"
+},
+{
+"HolderAddress": "0x4e649a3ea4b29e0ec3ec618d52e6799819737a94",
+"Balance": 0.131953931175176
+},
+{
+"HolderAddress": "0x4eb92500f50cd01a32d184264cc1f32e8d3e8047",
+"Balance": "184.152.815.684.699"
+},
+{
+"HolderAddress": "0x4f0c471b37069c55783707a8de571711a9c6405e",
+"Balance": "16.398.881.333.108"
+},
+{
+"HolderAddress": "0x4f459dc2a1dac3cfb64dc5dceba6ab02d8e1fc1c",
+"Balance": "161.402.867.959.012"
+},
+{
+"HolderAddress": "0x4f8416cd9beea378e762dba75ae0113963928de3",
+"Balance": "317.499.700.750.387"
+},
+{
+"HolderAddress": "0x4f946ceeff660d64f9e77bcf74da87d07779b1f4",
+"Balance": "259.823.183.586.836"
+},
+{
+"HolderAddress": "0x4fc03da3f6e1ff9a6316106e1151d7a1d63d938e",
+"Balance": 0.133134436660965
+},
+{
+"HolderAddress": "0x4fc24570e256fc6d0f6fcd62530bb743cbc9ac54",
+"Balance": 0.135242897776291
+},
+{
+"HolderAddress": "0x504b111ea99035dd776613528a7a5d1254edfe67",
+"Balance": "257.469.098.046.721"
+},
+{
+"HolderAddress": "0x5075713a2eb352d2eeb352fead97764840431fc2",
+"Balance": "568.171.129.980.173"
+},
+{
+"HolderAddress": "0x50c491ffda25f9e472d467d60835468c522e7d3a",
+"Balance": 0.0899338273247955
+},
+{
+"HolderAddress": "0x5169a46cf0b99c0c1e8d078d3b9f9b6ed9a215ea",
+"Balance": "340.278.583.593.515"
+},
+{
+"HolderAddress": "0x5169dcf02b8029e1080c002c28c7e179fb98f372",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x51b5f6f704c2877d274825998b4f56bad3225b2e",
+"Balance": "403.144.479.967.791"
+},
+{
+"HolderAddress": "0x51f079e44d2cb8308c4aecf98e29fd85a394fd73",
+"Balance": "154.739.012.947.734"
+},
+{
+"HolderAddress": "0x523d20d1ae048aa6cce5ebb8e52be696c47d4720",
+"Balance": 0.131367928618949
+},
+{
+"HolderAddress": "0x529408a6962bae6ca5328874d633738116b89b05",
+"Balance": "184.995.018.555.709"
+},
+{
+"HolderAddress": "0x5299c7d2b73b6a96231081dabfd54dfcc84fedeb",
+"Balance": "172.571.343.846.785"
+},
+{
+"HolderAddress": "0x52fcd5ddd1fff1a6e96c734683728fe4902456c8",
+"Balance": "521.823.187.565.004"
+},
+{
+"HolderAddress": "0x53343babef7f50584616ddc114487c7e3ae4a6d3",
+"Balance": 0.135591369130551
+},
+{
+"HolderAddress": "0x536ad1fd0516cc166ca03996d7530c8cdd64ed77",
+"Balance": "602.097.700.366.956"
+},
+{
+"HolderAddress": "0x5389b9158a7cbcb670d3fb312390b39744ac3b05",
+"Balance": "301.890.096.635.505"
+},
+{
+"HolderAddress": "0x53c399edf64c1a1b3181e0a6716fb27bcfe07505",
+"Balance": 0.13544632360425
+},
+{
+"HolderAddress": "0x543ed6291570356c650b6ba64d31b9db036f0ad1",
+"Balance": "157.910.955.220.126"
+},
+{
+"HolderAddress": "0x54d2808b5f7a1241b979578562cb4869b0d781f8",
+"Balance": "146.034.202.475.459"
+},
+{
+"HolderAddress": "0x54fea27d16cc0dd4889ba47b3dfd2e1cfc4b7150",
+"Balance": "152.507.823.201.699"
+},
+{
+"HolderAddress": "0x55014da330bb999551c3c56a05a794bbe41c0bca",
+"Balance": "1,89E+08"
+},
+{
+"HolderAddress": "0x550b778d4c072f22be9d1f9da0ff501d91dec857",
+"Balance": 0.13605251919062
+},
+{
+"HolderAddress": "0x555959d4d9a2e361e18cbd9788a609fadcf0eb9c",
+"Balance": "317.500.137.320.173"
+},
+{
+"HolderAddress": "0x55d5eff05e48971d7df624e4cfc7ce66deb42c0d",
+"Balance": "178.784.432.261.786"
+},
+{
+"HolderAddress": "0x56a8d8fc7102599601eedec7c3dda77b5437e0e6",
+"Balance": 0.13645799387255
+},
+{
+"HolderAddress": "0x56b2e4894b4f6cba185600579cf00fe1065842f5",
+"Balance": "178.685.717.692.412"
+},
+{
+"HolderAddress": "0x573197e7e760ca55f89dd12a93515f0687947e0f",
+"Balance": "362.502.827.282.424"
+},
+{
+"HolderAddress": "0x573c19e4e899b4c1210cce6bde6ad5d39b84bf56",
+"Balance": "718.548.214.803.335"
+},
+{
+"HolderAddress": "0x57d3c153d5d97310ca5c75481351b562a776c574",
+"Balance": "416.675.167.489.242"
+},
+{
+"HolderAddress": "0x58479ef814c0e8825990cc445e7036709bf152aa",
+"Balance": "826.616.767.821.022"
+},
+{
+"HolderAddress": "0x588ae420a60b59f6b8d63342a955b48e63c47d94",
+"Balance": "332.428.782.884.329"
+},
+{
+"HolderAddress": "0x58ccb8d0e627b717d47ce60dc9ac61a45c9b2a62",
+"Balance": 0.131257541687441
+},
+{
+"HolderAddress": "0x590c673a9803748bf412ccea5fedf71aeda3eeb5",
+"Balance": "500.009.896.199.691"
+},
+{
+"HolderAddress": "0x59429282a4e566373a1f2d5f20cf08184b46ee07",
+"Balance": "346.879.434.229.478"
+},
+{
+"HolderAddress": "0x59430c911f12e942ec630b5b3ebbe88be7d80f22",
+"Balance": "15.042.397.895.235"
+},
+{
+"HolderAddress": "0x596e1017040449ba5b0914063a3b85e9117f3f7f",
+"Balance": 0.133261727289406
+},
+{
+"HolderAddress": "0x59dfe688c8d8505f02d391332dde01ad62da5d51",
+"Balance": "959.767.088.837.575"
+},
+{
+"HolderAddress": "0x59ec0edb51ab373c94e1f93fa3cdaaa94aae582b",
+"Balance": "165.466.590.891.463"
+},
+{
+"HolderAddress": "0x5aaddef4e015bf1a0a57dcc589486ea27c6577aa",
+"Balance": 0.133353173084528
+},
+{
+"HolderAddress": "0x5aaf37ff8c96a1d8f700a0dbb921c82022a1d04b",
+"Balance": 0.722943731442615
+},
+{
+"HolderAddress": "0x5aaf51511e17ef2007aa4c3761ac1362f3e3b525",
+"Balance": "771.170.312.257.109"
+},
+{
+"HolderAddress": "0x5abc5f885e235c30f99c80b9da8d21f85f65aea2",
+"Balance": "144.243.538.835.215"
+},
+{
+"HolderAddress": "0x5ac6a87ffd6552e49c204378f82f7fc4b18cd93d",
+"Balance": "16.383.743.410.199"
+},
+{
+"HolderAddress": "0x5bf57f8a9e1fdb554d65331cac55b1c9b24bba11",
+"Balance": "105.281.489.537.281"
+},
+{
+"HolderAddress": "0x5c4d3e0420ecd7d38840197d9ccfc467a86912da",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x5c5685ed8bd4c5fa510e16c39794fb850f7b82ff",
+"Balance": "317.499.092.474.203"
+},
+{
+"HolderAddress": "0x5ccd999ebcf3e56cad248a3b25c0f06fab275937",
+"Balance": "164.243.127.449.478"
+},
+{
+"HolderAddress": "0x5cd364df460c40588b865d6985f530767263cf84",
+"Balance": 7000
+},
+{
+"HolderAddress": "0x5cda2869c3d4c46f4de901a915fab9426041d906",
+"Balance": "167.542.217.130.709"
+},
+{
+"HolderAddress": "0x5d4abfb721cb289dfafac4b9f231da13a2eeb4c2",
+"Balance": "192.661.456.618.136"
+},
+{
+"HolderAddress": "0x5e2f0a2810585398a731ff390ea6f2e141db1a86",
+"Balance": "145.958.692.501.282"
+},
+{
+"HolderAddress": "0x5e77831822a9ca0118804f5a95f29dceb0a32c31",
+"Balance": "176.430.628.764.171"
+},
+{
+"HolderAddress": "0x5f2a7f39c6271bddd19f2b7631c4d612ca6a9eee",
+"Balance": "635.604.270.976.623"
+},
+{
+"HolderAddress": "0x5f535e190a445e259c7822f820d7a809290f4b89",
+"Balance": "237.939.792.046.713"
+},
+{
+"HolderAddress": "0x5fcd1feae9a78ebcba83f2776d37c884340c4bf5",
+"Balance": "15.231.095.553.911"
+},
+{
+"HolderAddress": "0x5ff8457235afa8c8b1b344c26935f5952c83790e",
+"Balance": "18.190.561.617.135"
+},
+{
+"HolderAddress": "0x6033304b8523303009a37e779253c4df7dd26b14",
+"Balance": 0.133115457494872
+},
+{
+"HolderAddress": "0x604449fc1c0297ed0ebac757dc049b16499cc63d",
+"Balance": "167.923.124.917.205"
+},
+{
+"HolderAddress": "0x616acb8e2593997a33cf6c28e9b149b178e099bb",
+"Balance": 0.361588236066981
+},
+{
+"HolderAddress": "0x61ea88423e3ed377ee3a46a5b119ee9451de8eee",
+"Balance": "187.624.948.350.277"
+},
+{
+"HolderAddress": "0x62bab09f5a005e816756c5aa8778103948fa0dcb",
+"Balance": "178.689.359.468.351"
+},
+{
+"HolderAddress": "0x62c0e99b6e55680fd234818e4c1f17bba11f85c5",
+"Balance": "638.130.125.671.016"
+},
+{
+"HolderAddress": "0x62e00b3611eb0c55553da3f05249fa1acbff9984",
+"Balance": "345.927.678.580.297"
+},
+{
+"HolderAddress": "0x633863b6678f4be7db45c229f21cf0e5c39e7d11",
+"Balance": "100.113.357.128.796"
+},
+{
+"HolderAddress": "0x63c833c738534e0bf4dd9a8b4fd8ed0fd6d70d1f",
+"Balance": "718.003.622.766.403"
+},
+{
+"HolderAddress": "0x6424bb5fae41a170650f21ebb3e49dff13f941ec",
+"Balance": 0.722960927382655
+},
+{
+"HolderAddress": "0x6480bc106f5a0b13d15f5c3acb97fa9945b34508",
+"Balance": "895.734.736.955.457"
+},
+{
+"HolderAddress": "0x64ac784e6382b7251db86c945f1706fe612a2b2c",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x658b0397894f14d876de3fdc9aa45a03711d164a",
+"Balance": "134.799.872.727.984"
+},
+{
+"HolderAddress": "0x65afaf8ae59b4e1b639302c56da3850ef76bcc18",
+"Balance": "350.469.350.064.574"
+},
+{
+"HolderAddress": "0x662546dcc9f158a9abb4d1c3b369b07bc67969d6",
+"Balance": "150.081.655.684.138"
+},
+{
+"HolderAddress": "0x6652e9030258e9aa5baf0f59917e19e591c707c1",
+"Balance": "268.757.584.608.813"
+},
+{
+"HolderAddress": "0x668187bb3dea23b5fba201808a1cce0eb3c344fc",
+"Balance": "703.813.319.788.816"
+},
+{
+"HolderAddress": "0x6685b085495876f41539ac2dfeddc68508fe41cb",
+"Balance": "999.527.180.540.078"
+},
+{
+"HolderAddress": "0x669b8d9d64d38c4efd296126c140982f68007ab0",
+"Balance": "292.238.032.237.119"
+},
+{
+"HolderAddress": "0x67c069523115a6ffe9192f85426cf79f8b4ba7a5",
+"Balance": "105.925.931.851.317"
+},
+{
+"HolderAddress": "0x67cda70ec5a0c11fade9c95762a82eda65487fb3",
+"Balance": 0.133084738462043
+},
+{
+"HolderAddress": "0x682509d14c1840eb408f288e5afcb3b1c45f7674",
+"Balance": "508.405.261.288.515"
+},
+{
+"HolderAddress": "0x6880411ea429c0b71eb5346e651d646852ebd857",
+"Balance": 0.131104245193316
+},
+{
+"HolderAddress": "0x68efe7baa136fd6f60cfe6c56b674cc73ea3b3c7",
+"Balance": 0.132149012622399
+},
+{
+"HolderAddress": "0x690332c7735c55f940ce21600fb1f7fa3fe4d4dc",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x6931f86ea1f1d6be939607284b5a052144dbe75c",
+"Balance": "174.692.405.897.525"
+},
+{
+"HolderAddress": "0x696d181a7961ee66c42f1ebeddc0b48b106c45ad",
+"Balance": "260.554.673.277.041"
+},
+{
+"HolderAddress": "0x69794735ca88de2ec2426fb20f416fa00f64ad37",
+"Balance": "160.582.909.096.143"
+},
+{
+"HolderAddress": "0x699bca9c6575c09e1d66df53f016f7bf7a0b890d",
+"Balance": 0.132892009272328
+},
+{
+"HolderAddress": "0x6a1277348cf377c544bf5d0b9d627e10ecb64e61",
+"Balance": "149.967.605.166.925"
+},
+{
+"HolderAddress": "0x6a250de6ee8269af9d01ddab3a36ba01b6c7b849",
+"Balance": "251.281.661.327.266"
+},
+{
+"HolderAddress": "0x6a5ab3b6213adfd8d54f77bb3dd16bfea98e1ad5",
+"Balance": "664.508.466.782.447"
+},
+{
+"HolderAddress": "0x6ab00efd9edfbf1f057c1d6ec99975c34cf5ef89",
+"Balance": 0.72302192840315
+},
+{
+"HolderAddress": "0x6b18e60ca765592ef38851fe9c4cbf7d1fbb4624",
+"Balance": 0.13172872391046
+},
+{
+"HolderAddress": "0x6b2e4c90b458d399ddeaffd7164823a5dfb419a0",
+"Balance": 0.722042528718689
+},
+{
+"HolderAddress": "0x6b8ff11f08a5752b17ba86ab041d38dc787664d8",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x6ba6b7ae93fdb8fecd58c2d2f95cfff5dd80aa97",
+"Balance": "249.069.653.075.758"
+},
+{
+"HolderAddress": "0x6c344bd50784059a494020ebf0fa025223a920b6",
+"Balance": "261.358.115.560.767"
+},
+{
+"HolderAddress": "0x6c73e9148ac9acd1a96d554b6b20905414f8696f",
+"Balance": "19.939.151.169.582"
+},
+{
+"HolderAddress": "0x6cd9afe0a1856b9574bf747f8f22e49bbf4b7be7",
+"Balance": 0.0134022849990727
+},
+{
+"HolderAddress": "0x6d2a1e4f893c227716d272c5f3c0c8db926714c9",
+"Balance": 0.131853093812643
+},
+{
+"HolderAddress": "0x6daad19fa7ce8b797f52e51e645474150f0db4b4",
+"Balance": "257.438.584.043.689"
+},
+{
+"HolderAddress": "0x6f34ca7efd8731892d2fb03d5e0d64e071abe6f4",
+"Balance": "317.499.287.657.147"
+},
+{
+"HolderAddress": "0x6f997a49bb52a221e474742ea78fd0b3d9447ca1",
+"Balance": "913.119.664.049.068"
+},
+{
+"HolderAddress": "0x70889a32edf61a7aa7d0c94173d4b1fe99649047",
+"Balance": "164.229.200.080.954"
+},
+{
+"HolderAddress": "0x70af8f0b836448799844b062f489b02a47d93fcd",
+"Balance": "317.955.147.465.752"
+},
+{
+"HolderAddress": "0x70e58523de64ebc638889e4ecc842e6cad395003",
+"Balance": "21.175.375.290.904"
+},
+{
+"HolderAddress": "0x7185edeac6fe584a1997a23e8d8be38094395b72",
+"Balance": 0.135341507865179
+},
+{
+"HolderAddress": "0x7225766f8bdf60b09bbf21689fa2982648b73c7c",
+"Balance": 0.00777178926296367
+},
+{
+"HolderAddress": "0x7233431b4942f0c51911142b7382478fe4579351",
+"Balance": 0.136098871190223
+},
+{
+"HolderAddress": "0x7288064ad55d4ed0e74053fb5d7efc67ef028419",
+"Balance": "597.040.028.139.784"
+},
+{
+"HolderAddress": "0x7354b706f81381ef14ebaecb4bb7b28316b0db97",
+"Balance": "135.750.647.222.243"
+},
+{
+"HolderAddress": "0x736c787c7dd6c0f76d1c0d918ea3c26abcc97c28",
+"Balance": "172.450.703.668.869"
+},
+{
+"HolderAddress": "0x73b596b6198cefbd30b0a3bfe7579ee5100da34c",
+"Balance": "105.722.532.728.231"
+},
+{
+"HolderAddress": "0x744044ae84debe66b8b6b046cbdaf1644ce4fa3b",
+"Balance": 0.607040220489029
+},
+{
+"HolderAddress": "0x75ff328df685157a9b390dc77e948b23e36ed048",
+"Balance": 0.133538680303631
+},
+{
+"HolderAddress": "0x760c44790d4e0f364f76f448bf000c5aaec04961",
+"Balance": 1
+},
+{
+"HolderAddress": "0x7626ff1770a859eda11e5a2d037cfa3bf58c370f",
+"Balance": "232.834.783.846.482"
+},
+{
+"HolderAddress": "0x775660f9d91c74a08c6efd56fa52c2d189dae109",
+"Balance": "166.430.747.555.991"
+},
+{
+"HolderAddress": "0x777a72f3830ced90888665c125c43a7623416440",
+"Balance": "101.039.015.966.647"
+},
+{
+"HolderAddress": "0x77ce81a1aafc6162da0c4a68a3a29d0ffe10de64",
+"Balance": "427.692.514.884.951"
+},
+{
+"HolderAddress": "0x77de7125b006a280a5d439503ad0f7220c985345",
+"Balance": 0.133758196279625
+},
+{
+"HolderAddress": "0x77de74683413785053fa2024ca78e8bab203d964",
+"Balance": "160.058.554.725.922"
+},
+{
+"HolderAddress": "0x786f2139a622632a57baff7df2b23757c7e2df54",
+"Balance": "168.317.372.822.513"
+},
+{
+"HolderAddress": "0x7880dce779108bdbc374f18f74d193550de8c621",
+"Balance": "166.115.583.288.407"
+},
+{
+"HolderAddress": "0x78ca0baf04415f58465afff2b41d44db5d1301a5",
+"Balance": 0.134331442956883
+},
+{
+"HolderAddress": "0x791322ac3163f00381461f9a9680e18b5d12d6d3",
+"Balance": 0.131665196894653
+},
+{
+"HolderAddress": "0x79afca741ea61a415e1973948bd0dbeac5701171",
+"Balance": "113.568.723.091.709"
+},
+{
+"HolderAddress": "0x7a4a610d94b060912349cb13588dff375d2c3c8b",
+"Balance": 0.136894115493909
+},
+{
+"HolderAddress": "0x7a65395f7e7dbbc83db4537e20eb4a9510c32503",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x7aa07bd5bb58d61784e53893b3466dd1fdb125ef",
+"Balance": 0.130735757516715
+},
+{
+"HolderAddress": "0x7aa6fc0ecec21138a68d4beb6541156be38aa36c",
+"Balance": 0.00058134425081692
+},
+{
+"HolderAddress": "0x7ab4da334dd1b97a2d360f90212959b1575963d2",
+"Balance": "1,87E+06"
+},
+{
+"HolderAddress": "0x7ac23de43ffe77cfab5bdfcf2f3441f46069ae47",
+"Balance": "18.047.969.093.684"
+},
+{
+"HolderAddress": "0x7b5a3cfe0aad32113229d90a9b116b3a74732da0",
+"Balance": "114.138.406.972.169"
+},
+{
+"HolderAddress": "0x7b62cda429e464faa2f508ae9672425f76add507",
+"Balance": "72.119.769.844.512"
+},
+{
+"HolderAddress": "0x7b7640e242748c08068287e5d75999eb111600eb",
+"Balance": "151.069.867.027.373"
+},
+{
+"HolderAddress": "0x7b7b468bf259fd2b8a6911086a9cbc4d90399ef2",
+"Balance": "178.757.489.230.132"
+},
+{
+"HolderAddress": "0x7b82de88289b0f4f59a6eb0d56afc63031850ab2",
+"Balance": "601.553.943.424.366"
+},
+{
+"HolderAddress": "0x7c28a4780e4ffd835a9c106e5f41b906c1931420",
+"Balance": "182.101.537.380.381"
+},
+{
+"HolderAddress": "0x7c72506327ec62a2de666e0cf0a917ab765cf964",
+"Balance": "267.298.797.486.511"
+},
+{
+"HolderAddress": "0x7c9a16e6c1393e0fc692570234aaec9c7beb8516",
+"Balance": "7,23E+08"
+},
+{
+"HolderAddress": "0x7d8df0cea5312cba0d0b2e5fc70d4e369b9542dc",
+"Balance": 20
+},
+{
+"HolderAddress": "0x7def8f1c4dd7579e3ba6a8a59a1e7fb4f467ac43",
+"Balance": "45.916.199.421.285"
+},
+{
+"HolderAddress": "0x7e2d0d1c12cb1be7440386fd49d3cea6c744fdd6",
+"Balance": "134.073.659.691.525"
+},
+{
+"HolderAddress": "0x7e3727e2a544092fd4b42b2b5d587bd60d93d186",
+"Balance": "762.746.808.071.684"
+},
+{
+"HolderAddress": "0x7e7ccdd07d63af2543d8429034d6ff7b041f50f1",
+"Balance": 0.136265764911477
+},
+{
+"HolderAddress": "0x7eb01db53a71b3dec52663d6b216f8f0a48251c9",
+"Balance": "189.404.431.332.943"
+},
+{
+"HolderAddress": "0x7ec8415aeeaf27a332049bbdd43aab507f91373d",
+"Balance": "154.573.251.716.865"
+},
+{
+"HolderAddress": "0x7ecbb34675eedfbd7e6963b3b8287263ad1fa1b9",
+"Balance": "142.548.933.595.583"
+},
+{
+"HolderAddress": "0x7f248e4301f5a16b2a8289989584a509f7157845",
+"Balance": "286.982.166.747.557"
+},
+{
+"HolderAddress": "0x7f7eceede5f97179883ef8f30edf24c50aa5c597",
+"Balance": "168.102.702.016.325"
+},
+{
+"HolderAddress": "0x7f9471b5aceb379d565184001e88477d5e783651",
+"Balance": "706.507.306.799.067"
+},
+{
+"HolderAddress": "0x7fdafd4176e73afa8397a0ce5c48d36f5d6e48bf",
+"Balance": "664.994.776.008.578"
+},
+{
+"HolderAddress": "0x8057a52a999f3b22bb0487b9a28f50d1af609809",
+"Balance": "151.710.938.111.862"
+},
+{
+"HolderAddress": "0x8076e868865d6344591b5462fda466104bc825cd",
+"Balance": "100.056.148.067.233"
+},
+{
+"HolderAddress": "0x80a806868f4c3b6fc0bc1f1c4fb0855838856c8d",
+"Balance": "153.339.633.858.651"
+},
+{
+"HolderAddress": "0x80aa8621575e11bfa91ecc55d1dc795fb2f3bb82",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x80c8f183ff6f9fd4ea783dcd9178b9c196096b8a",
+"Balance": "168.448.309.533.379"
+},
+{
+"HolderAddress": "0x81616682a0b572261b606f610fbadc940966c74b",
+"Balance": "164.320.984.579.496"
+},
+{
+"HolderAddress": "0x81f9fee48ebdb023e05983f7aad937bcaa77940b",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x824c7e8ac9a0b745d92351217f5caf87c9ae7ff2",
+"Balance": 0.552993158930858
+},
+{
+"HolderAddress": "0x8304499c35729766470c74ea0bb50fdef06e21ff",
+"Balance": 0.136647745180019
+},
+{
+"HolderAddress": "0x8304642369aac59f049dd73fed77e361faadb193",
+"Balance": "128.949.061.077.121"
+},
+{
+"HolderAddress": "0x8304e08b2812d9ace616642e4cfdda9af1866f53",
+"Balance": "100.535.618.562.003"
+},
+{
+"HolderAddress": "0x83282a31612dcef6209b128b1b800a8d200f9820",
+"Balance": 0.132312262103032
+},
+{
+"HolderAddress": "0x8331e7d216b200d541cf4faa9328e9f0d57ed70a",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x835c3bde8ecdb1e84819512761671fef0b07edd0",
+"Balance": "340.635.793.273.088"
+},
+{
+"HolderAddress": "0x8364efe405e7949f6a936a5a14b08b0451e38e27",
+"Balance": "16.645.063.743.218"
+},
+{
+"HolderAddress": "0x839395e20bbb182fa440d08f850e6c7a8f6f0780",
+"Balance": "247.882.455.341.907"
+},
+{
+"HolderAddress": "0x83c9440dc34da00c47a0d4dc2b598d7bdb1b53f7",
+"Balance": "165.395.005.380.658"
+},
+{
+"HolderAddress": "0x83fcf5241ed5795b8f07c503c25b4c4481928348",
+"Balance": "246.769.622.596.297"
+},
+{
+"HolderAddress": "0x8458fcce2d9f023efdbe71e74573629609bcc1f6",
+"Balance": 510
+},
+{
+"HolderAddress": "0x85b341f266bea6da87b5a60ef03306ff3a896ccf",
+"Balance": 20
+},
+{
+"HolderAddress": "0x861aa73901f82e25a8951f046fa0f53700f5116c",
+"Balance": "320.984.068.836.521"
+},
+{
+"HolderAddress": "0x862c4c2dc134d59b5351ed52eaa5d15442245748",
+"Balance": "672.227.050.564.794"
+},
+{
+"HolderAddress": "0x862caa41acd88d6128b44c88070f40745f97143b",
+"Balance": "326.899.366.270.494"
+},
+{
+"HolderAddress": "0x864b6369e7294640cff3cae76fe2c996a6144855",
+"Balance": 0.552614150254618
+},
+{
+"HolderAddress": "0x86f6941748bed21a8449c05a6c62208dc4c363b4",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x885573edb41a676ec1cff6c9f6407d714dc5cd36",
+"Balance": 900
+},
+{
+"HolderAddress": "0x88ec17d35456683b82d789210d9b525994298f17",
+"Balance": 0.130873407607389
+},
+{
+"HolderAddress": "0x8903fdda42120ce6ce5ee158ed2cd085ab5c7ec0",
+"Balance": "446.710.464.649.935"
+},
+{
+"HolderAddress": "0x89146a9fb56c99c30f6eed0a4cefba5b51f45d9d",
+"Balance": "174.695.954.692.454"
+},
+{
+"HolderAddress": "0x8947ea804f037c83fb41509f4f5e23599460a9a4",
+"Balance": "242.696.548.110.899"
+},
+{
+"HolderAddress": "0x8a1d03f13f7de4ae4ae9986c804c959b9ed29bfb",
+"Balance": "129.906.915.764.124"
+},
+{
+"HolderAddress": "0x8a2cd4bc314fdc8daf2c7c9be68773087e8dd76d",
+"Balance": 0.132676057782669
+},
+{
+"HolderAddress": "0x8a6cec6d689d87143cf9306e08c8015a5db8aeac",
+"Balance": "1,00E-18"
+},
+{
+"HolderAddress": "0x8a96a91458f884e78ed17fe2eae77fcb82a49b60",
+"Balance": "106.314.574.729.046"
+},
+{
+"HolderAddress": "0x8b3f14f0582fbf275be87d265c931b4dfd5f13b7",
+"Balance": "354.520.966.505.976"
+},
+{
+"HolderAddress": "0x8b48715c5d6d1645663a4c460ea85ce846b8580e",
+"Balance": 3.429
+},
+{
+"HolderAddress": "0x8b614e51fa80109b6cd35c1ea631c1d680db93d9",
+"Balance": "203.691.154.935.465"
+},
+{
+"HolderAddress": "0x8b7532da8ef97317f2530c4160fdd1c416ff368b",
+"Balance": "273.596.625.033.462"
+},
+{
+"HolderAddress": "0x8c2a7c3b067d13ee11f4516bd86e1fb8a25077ba",
+"Balance": "178.710.754.085.863"
+},
+{
+"HolderAddress": "0x8c2e9a2fa7641aab30f8a8ba6b6a5d40e4c793e0",
+"Balance": "317.499.574.699.618"
+},
+{
+"HolderAddress": "0x8ca9d41f1829c1fd474e94dc1649d28a8ce0bbd9",
+"Balance": "847.616.147.446.832"
+},
+{
+"HolderAddress": "0x8cc7b7afc776ca48d020a93af230bef28e76eee8",
+"Balance": "826.806.159.998.631"
+},
+{
+"HolderAddress": "0x8cd0e99c9ed5d40ce84737bf9c9969c6b7c13a53",
+"Balance": "256.597.354.067.066"
+},
+{
+"HolderAddress": "0x8ce8dc0c5dbc8e2a9b1f7d8d724b243325b45cc0",
+"Balance": "297.128.725.504.383"
+},
+{
+"HolderAddress": "0x8d16c0d97716ae7cf9d739bc66353a339638ffb4",
+"Balance": 0.131263583005746
+},
+{
+"HolderAddress": "0x8d2a9f5e630bbc008ffbc80b695afce1af79cd5e",
+"Balance": "168.871.246.140.801"
+},
+{
+"HolderAddress": "0x8d3cd61164ff9a2ddcccce933c5b4608f6562a82",
+"Balance": "144.932.211.679.726"
+},
+{
+"HolderAddress": "0x8d53ec4df7ed7f14270c8ddd4b5c1e6daa90fb26",
+"Balance": "267.637.472.113.859"
+},
+{
+"HolderAddress": "0x8d82df2d08e06b83aea743817648cd1277f0077f",
+"Balance": 0.722777822403854
+},
+{
+"HolderAddress": "0x8dccaed03b967c6eb64c4978f1c51e821f8cc0d5",
+"Balance": "161.378.806.214.122"
+},
+{
+"HolderAddress": "0x8ded6ee2df65f79dc3f947fcac211d008d066c37",
+"Balance": "167.392.417.079.326"
+},
+{
+"HolderAddress": "0x8e40ce46e83845cc4c7f58522ec11f7dbfecd19d",
+"Balance": "783.092.113.916.372"
+},
+{
+"HolderAddress": "0x8e9c792b173c485bcaa989470a2044677579c24d",
+"Balance": 1
+},
+{
+"HolderAddress": "0x8f5943d5a4d1e1d7a1b3914a44138810051bee5c",
+"Balance": "14.927.745.532.139"
+},
+{
+"HolderAddress": "0x8fc1f9e7a595e78c80fc89922efce6e42fbdffc3",
+"Balance": "267.575.255.697.453"
+},
+{
+"HolderAddress": "0x90027c06e2e813bbbc5489f17715255e28c0afad",
+"Balance": "128.087.131.468.559"
+},
+{
+"HolderAddress": "0x90827959bb2a53827f1e640d5c05987fd1eea7cf",
+"Balance": "166.652.041.708.476"
+},
+{
+"HolderAddress": "0x9116d36fa534ac8054d2f9b28a5d49660700c212",
+"Balance": "100.230.289.534.545"
+},
+{
+"HolderAddress": "0x9172b0172477725839021c3e23b6a50bcaea9f92",
+"Balance": "295.914.088.482.581"
+},
+{
+"HolderAddress": "0x917c2a204ff56c9ade490b2d1f996ae55b06aa4a",
+"Balance": "738.700.854.653.974"
+},
+{
+"HolderAddress": "0x918cc89e16ee2d65a4fccade5ad5da489733c810",
+"Balance": "345.946.486.945.434"
+},
+{
+"HolderAddress": "0x91f8cda86b5bd38f7f59f2379d9e02627d0a9692",
+"Balance": 0.132713372659681
+},
+{
+"HolderAddress": "0x9219e2778e0fac0e59010157386f9c930cb25ab6",
+"Balance": "150.167.021.874.963"
+},
+{
+"HolderAddress": "0x927a739dc4e1086328d4c25d8c4301095f5e534d",
+"Balance": "922.548.011.891.454"
+},
+{
+"HolderAddress": "0x9284f9f413b9607541bb0c59c95010790a6cf279",
+"Balance": "105.909.134.015.239"
+},
+{
+"HolderAddress": "0x928fbb56394ca7f6569639a99e4c2584db82b67d",
+"Balance": "907.410.177.013.511"
+},
+{
+"HolderAddress": "0x931606aa34b5599a95d588f2af2af96c3f232471",
+"Balance": "317.498.736.512.525"
+},
+{
+"HolderAddress": "0x9334bbc9047b332c45195187535576defdc5d5e3",
+"Balance": 0.0118902717114405
+},
+{
+"HolderAddress": "0x9407b1fdc0e548da07847eefc1e4c4965f57ab66",
+"Balance": "178.995.055.603.095"
+},
+{
+"HolderAddress": "0x945f0cfb7fa261c526f45fffac22d2cf5958cb16",
+"Balance": 0.553146602384053
+},
+{
+"HolderAddress": "0x94c183393fdca9fcb19c6a7a7f28e9132419729e",
+"Balance": 0.133354510183695
+},
+{
+"HolderAddress": "0x9504558cf0e6def50a3a31ce9eca13246a4bdf46",
+"Balance": "20.990.751.491.749"
+},
+{
+"HolderAddress": "0x95bd87b9b7706d9721ccca819b826dec66117828",
+"Balance": "183.281.814.951.077"
+},
+{
+"HolderAddress": "0x95fc044fdc276730ae76337a0ca74175a0e2b6a5",
+"Balance": "151.622.287.797.647"
+},
+{
+"HolderAddress": "0x966513654b0d8167b0f91e5b1d967f165c047722",
+"Balance": "225.182.139.762.079"
+},
+{
+"HolderAddress": "0x969fba502f1c11d869676739c0a4dcb9a5ad95b2",
+"Balance": "210.294.471.033.003"
+},
+{
+"HolderAddress": "0x96c195f6643a3d797cb90cb6ba0ae2776d51b5f3",
+"Balance": 0.27765431020031
+},
+{
+"HolderAddress": "0x96cd74c0dfe8829463f598f185951364e889f462",
+"Balance": "250.634.955.580.149"
+},
+{
+"HolderAddress": "0x972d81db09e0189303fb72d66d7d4a5c689ad6ac",
+"Balance": "309.837.607.492.221"
+},
+{
+"HolderAddress": "0x9731c3803d44f4398a1d552a626c166e88eaf525",
+"Balance": "381.720.438.181.502"
+},
+{
+"HolderAddress": "0x97629813364586d0a553da77ad376ee8ca1e7970",
+"Balance": "760.166.043.708.346"
+},
+{
+"HolderAddress": "0x978a4c41a365e84e6ab79a81796707f2df6e5f4b",
+"Balance": "449.801.640.694.234"
+},
+{
+"HolderAddress": "0x98098214ad5b1b08cc9d94e32f056e9a0de18110",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x99303ad7416a7abca109816bf1125eebbade43ba",
+"Balance": 0.131594240110447
+},
+{
+"HolderAddress": "0x995b14dadc423c93c816d3a96d392a0a3f203304",
+"Balance": "37.451.344.686.345"
+},
+{
+"HolderAddress": "0x996d2565af850490a1ab01e29c8653e4abaceb51",
+"Balance": "806.556.062.693.925"
+},
+{
+"HolderAddress": "0x99da31de20dcdac518a2fed71b7987bf93ceed3b",
+"Balance": 0.133097775686215
+},
+{
+"HolderAddress": "0x9a5a8778101247c36d8155a34fc2cca6b2a94159",
+"Balance": "760.424.792.195.496"
+},
+{
+"HolderAddress": "0x9a7e21e942b3e89a31c6dcc102add11a895b207a",
+"Balance": "105.501.940.019.834"
+},
+{
+"HolderAddress": "0x9a926fca8935a90b83f8cd55a60e9451d8d31c2c",
+"Balance": 0.000363210931014413
+},
+{
+"HolderAddress": "0x9ab1af0f1dd48c8c27b977ce62b67427058646b1",
+"Balance": "180.608.219.404.083"
+},
+{
+"HolderAddress": "0x9af3dccf109c95a807b3db6548889e052e204238",
+"Balance": "195.230.415.229.304"
+},
+{
+"HolderAddress": "0x9b17720f6c33acd33b1de9ba885491b30676a49b",
+"Balance": "100.294.504.159.099"
+},
+{
+"HolderAddress": "0x9b19af2ddce2f38b1b3b8b775f57e196c93ce661",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x9b46a8599960208b33694e72a70a18d67c9ae041",
+"Balance": "164.535.045.318.741"
+},
+{
+"HolderAddress": "0x9b66e7c53ec412528417316a3e462e75afcc61a3",
+"Balance": "170.185.812.228.194"
+},
+{
+"HolderAddress": "0x9b6fb024b0acb33dcc7c056d37da6e0f0ec91319",
+"Balance": "165.470.713.327.594"
+},
+{
+"HolderAddress": "0x9c2a603af2d91bf927992372ca24e399657d6092",
+"Balance": 0.131469043770639
+},
+{
+"HolderAddress": "0x9c4dcc2e88e69700a0bb8fc194a7c3970fd8bf12",
+"Balance": "178.728.353.876.558"
+},
+{
+"HolderAddress": "0x9c5e4c9654f1aca39bac47d91266ad89935905a8",
+"Balance": "166.457.548.939.152"
+},
+{
+"HolderAddress": "0x9d09ce6319faf20c4bc9e41b09db9c515bf52474",
+"Balance": "310.853.650.920.186"
+},
+{
+"HolderAddress": "0x9d365ab82fb728eafa793928adf06410f8958a0f",
+"Balance": 0.132483684396125
+},
+{
+"HolderAddress": "0x9d5fe51a4a63bb96da9fed6d5906f8e1e0d1520e",
+"Balance": "212.499.917.213.973"
+},
+{
+"HolderAddress": "0x9d75affe4b78c09d94f9e0b0c884acf9bff550a1",
+"Balance": 0.131291576251948
+},
+{
+"HolderAddress": "0x9dcf1ca9eb45a356093d4351bdcb73ef80215c1b",
+"Balance": "131.784.922.715.091"
+},
+{
+"HolderAddress": "0x9e2363e885ed2f1a65df589d99723458c637a3af",
+"Balance": 1000
+},
+{
+"HolderAddress": "0x9e4046723984930fc16f6fdeb116c34025ffb856",
+"Balance": 0.135839138571906
+},
+{
+"HolderAddress": "0x9e7b74aa3cd1bedeea476578ad401bf43e31c932",
+"Balance": "572.235.674.319.088"
+},
+{
+"HolderAddress": "0x9edba74460ad6b40b40809b2228982c56e3e890b",
+"Balance": "1.550.927.768.299"
+},
+{
+"HolderAddress": "0x9f3d352cae9cb98a3a469534a81b8fc1e6b281a8",
+"Balance": "222.137.792.828.491"
+},
+{
+"HolderAddress": "0x9f55f67e50a79104e599fd47a860dea9946091d5",
+"Balance": "143.919.861.282.455"
+},
+{
+"HolderAddress": "0x9fe7ededcd7dcf206cbe7f00bd23a6e70b398d74",
+"Balance": "689.672.140.900.795"
+},
+{
+"HolderAddress": "0x9ffa32e1daa12e59adefccea6e21bb59285607e2",
+"Balance": "282.301.295.760.055"
+},
+{
+"HolderAddress": "0xa009ad87cc7ddc877fc168c8869cf6f8c4c71539",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xa01353ba22090bcbff6a456a4e228c5dfe7a51c5",
+"Balance": 0.133148100762622
+},
+{
+"HolderAddress": "0xa01a5d02d2bfa5ea4b02bb6f0af324ffbf901386",
+"Balance": "317.498.966.317.767"
+},
+{
+"HolderAddress": "0xa01c6112e4b5f52a44d8e99b48e367a9218889a9",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xa03e8d9688844146867decb457a7308853699016",
+"Balance": 0.00277748740247482
+},
+{
+"HolderAddress": "0xa162473680fc180bfe5356918bfcb70fc0ae1fb8",
+"Balance": "164.668.634.606.897"
+},
+{
+"HolderAddress": "0xa17f7de14ee47efb1c822a7610781c3679bcdf92",
+"Balance": "365.342.416.833.581"
+},
+{
+"HolderAddress": "0xa1e2253cde9c272bc09cc1e55af906335eca3d8a",
+"Balance": "317.499.379.409.601"
+},
+{
+"HolderAddress": "0xa2917120c698fb5f2a03e3fd3524bda85a3eaef6",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xa2db809fcaadfdba127465e6619ac41208ef0508",
+"Balance": 0.137434842166445
+},
+{
+"HolderAddress": "0xa2e3d52183533b738f72e939414db5d6bc334b85",
+"Balance": "561.819.973.665.794"
+},
+{
+"HolderAddress": "0xa356eb61c2e517ff9fca00c29b05e4527764820f",
+"Balance": 0.131584124389515
+},
+{
+"HolderAddress": "0xa3a8db0380bf8d29fc91c982e896ac5c03830513",
+"Balance": 0.133358312691127
+},
+{
+"HolderAddress": "0xa3f6b8d7e0ad44be72e068acbc167d216555fbb4",
+"Balance": "105.478.479.124.645"
+},
+{
+"HolderAddress": "0xa43931484e8ab6887c152d4788c5292f825abea0",
+"Balance": "1.464.373.311.423"
+},
+{
+"HolderAddress": "0xa45b02556e32b31497cac72ad3272c836f47941d",
+"Balance": "292.954.162.786.173"
+},
+{
+"HolderAddress": "0xa4d3316b09125c0d1bbfe757f43d3aae4e4e9d8f",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xa4e3e6917da1067f917ac976b26bc1202e9dfebd",
+"Balance": "380.840.356.624.451"
+},
+{
+"HolderAddress": "0xa52076200511f5963a12cc7ba391db92804fbd88",
+"Balance": "172.908.574.069.274"
+},
+{
+"HolderAddress": "0xa571f563e26f2d3a9b6d74d4a65ff6d208120d6a",
+"Balance": 0.132296905578936
+},
+{
+"HolderAddress": "0xa58f7166f8338372be487eab66d6e52cf534cd41",
+"Balance": "827.862.500.383.185"
+},
+{
+"HolderAddress": "0xa6648e99f2099059eb7cbb7d14e1c3a2500fb467",
+"Balance": 0.553029378885395
+},
+{
+"HolderAddress": "0xa69e5f4dbe81098b9368328a4199da6b2803d956",
+"Balance": 0.72298608530387
+},
+{
+"HolderAddress": "0xa6a1539ac96d8917f70190379a4e6fa8a1ce7a50",
+"Balance": "774.649.758.313.418"
+},
+{
+"HolderAddress": "0xa6cc6d10007f55e858c71c209c9fe8295098b678",
+"Balance": "33.709.281.759.691"
+},
+{
+"HolderAddress": "0xa7326c3a80c3c3d2aefea5d7c952da3f44485b94",
+"Balance": "814.706.771.547.185"
+},
+{
+"HolderAddress": "0xa7386017abc723aed0fe779f3cca768d76d56c91",
+"Balance": "203.742.174.116.138"
+},
+{
+"HolderAddress": "0xa76fdc8c0d34fc14f55ddd7e55676bb9d877ba59",
+"Balance": 0.128040971301567
+},
+{
+"HolderAddress": "0xa78720efb25eaf53a1ece902ac36dfe75732f3f8",
+"Balance": "149.528.563.123.783"
+},
+{
+"HolderAddress": "0xa832fbc8138d9bd9fc903391bc483633ac572a76",
+"Balance": "1.571.691.623.805"
+},
+{
+"HolderAddress": "0xa84caa085ea9a05e1f55256eeab6bd19042e40c6",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xa88170e2142b0e1eefcb2041b7f3754f4f4298fd",
+"Balance": "243.348.528.483.376"
+},
+{
+"HolderAddress": "0xa8c73ee57c268872b9d2d7a90e5f2e31af8493fb",
+"Balance": "339.036.000.154.077"
+},
+{
+"HolderAddress": "0xa8e9e4d0f213736b463ebeff5b92dc8ef873f772",
+"Balance": "503.736.157.263.252"
+},
+{
+"HolderAddress": "0xa9503a8763f05b6bd068d4c5c8645e1869092818",
+"Balance": "341.519.024.274.594"
+},
+{
+"HolderAddress": "0xaa151326b656ee7cef31df135345d96a79c3793d",
+"Balance": 0.722024678358328
+},
+{
+"HolderAddress": "0xaa4ee17c66bfc0d27b7895877c8dfc2400a86584",
+"Balance": "262.742.499.403.644"
+},
+{
+"HolderAddress": "0xaa9e424439209e642b52d3af8c875d8340566ac4",
+"Balance": "329.311.422.678.774"
+},
+{
+"HolderAddress": "0xaaa407de6773855dc18c502f74dd2965c4ae291d",
+"Balance": "386.011.922.773.796"
+},
+{
+"HolderAddress": "0xaaebd5e490a3d624f3e8147542f43fbcf8223acc",
+"Balance": "165.601.419.202.638"
+},
+{
+"HolderAddress": "0xab423298681dff310d6d541a8548d99f09d46cad",
+"Balance": "43.362.861.748.869"
+},
+{
+"HolderAddress": "0xabcb252df3644f118b2bb286241a7234b63b057c",
+"Balance": "156.974.042.539.383"
+},
+{
+"HolderAddress": "0xabd2fa3a1c58da2d31f1f3051a9e65571f3759e0",
+"Balance": 0.133092778714108
+},
+{
+"HolderAddress": "0xac0c3f0212865e8b242e72f5a4663e13d609654e",
+"Balance": "200.663.847.137.599"
+},
+{
+"HolderAddress": "0xac2df8e2443502810bd5c1b7536054388d176579",
+"Balance": "491.793.442.766.931"
+},
+{
+"HolderAddress": "0xacd559d2284cc8c01d0e9bcb0d802f66efb5cd45",
+"Balance": "402.616.313.892.648"
+},
+{
+"HolderAddress": "0xace0cfa6db7f70fa65d7780ef5d0b3b598481ef1",
+"Balance": "144.114.089.885.783"
+},
+{
+"HolderAddress": "0xad233db0ba3dcc071b0625921ea01720cf0aba9f",
+"Balance": "758.089.800.659.133"
+},
+{
+"HolderAddress": "0xad4745844bc838a22c6d63213507bc888dee3fc4",
+"Balance": "146.651.395.263.719"
+},
+{
+"HolderAddress": "0xaddf2b04f9da28764fe15689b70028565afb9f18",
+"Balance": "406.804.527.853.446"
+},
+{
+"HolderAddress": "0xae1490e624f7debc57cfae72621c559e75971512",
+"Balance": "351.169.501.555.724"
+},
+{
+"HolderAddress": "0xae3a39b8266442013fb8c67e15ce7b05e41ba2a3",
+"Balance": "14.077.988.218.495"
+},
+{
+"HolderAddress": "0xae9a5864628169e8a8c38c596294af46af4af343",
+"Balance": "157.702.264.599.981"
+},
+{
+"HolderAddress": "0xae9c1768f1ef7e772b90766a0cd25934ab870e8f",
+"Balance": "138.012.110.299.527"
+},
+{
+"HolderAddress": "0xaea970d56a89afc66a7fd011f8db1e5cb4a3a4e6",
+"Balance": 0.134306831208593
+},
+{
+"HolderAddress": "0xaf3160fab2ed86c2d88f7331a7a5e9666096cac0",
+"Balance": "8,40E+08"
+},
+{
+"HolderAddress": "0xafca8e2986d7f2df9e5bd06c7fde76988fbaf816",
+"Balance": 100000
+},
+{
+"HolderAddress": "0xb012b817287c4088a0419ab916b76eec4be70bfe",
+"Balance": "251.246.084.248.165"
+},
+{
+"HolderAddress": "0xb01fefbf049d310cf0dc6f616117ae9a3284fb62",
+"Balance": 4
+},
+{
+"HolderAddress": "0xb021cb7c8f7014e02aeb3bffb9f38bd0b50d6168",
+"Balance": "151.073.854.071.557"
+},
+{
+"HolderAddress": "0xb03277e94d72d2843b797f3102b7ffd6a2279454",
+"Balance": "188.714.636.714.951"
+},
+{
+"HolderAddress": "0xb03964b79d802a82d9dd0b658167e3f4abe5e44d",
+"Balance": "162.295.480.357.341"
+},
+{
+"HolderAddress": "0xb10be5cbbf9655ed3648184ade56d3b4d6cedd4f",
+"Balance": "641.540.981.427.573"
+},
+{
+"HolderAddress": "0xb12ba1b602d235a0e8e2463ad2aeab2944cf5c45",
+"Balance": "584.927.837.971.513"
+},
+{
+"HolderAddress": "0xb138824b2b5ddeeeb65a4452f40249d1e4ffba9d",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xb13f445b0f26c0fc832e348712bf962eec9a964b",
+"Balance": "259.360.376.182.507"
+},
+{
+"HolderAddress": "0xb20d0a0ebbdfdf8e0004bf8ecfd609071c6ba1f7",
+"Balance": 0.136023255913442
+},
+{
+"HolderAddress": "0xb25271973da0c4c47540f94cd10865beac7575f2",
+"Balance": "144.202.767.203.747"
+},
+{
+"HolderAddress": "0xb2938bd4c7854c0709c2fefefe1284fb24133d19",
+"Balance": "400.307.313.850.557"
+},
+{
+"HolderAddress": "0xb2c35530d58053ca380548468a4d30e8f3957114",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xb2f5e5dc63a3c0b7471595a94a782d23772c8d1b",
+"Balance": "155.594.779.175.545"
+},
+{
+"HolderAddress": "0xb31ec31fb8a0cd5cd36d18aec69dcb6d9b678f8f",
+"Balance": "176.619.336.722.199"
+},
+{
+"HolderAddress": "0xb40369d7599cc014d0eb3b0b21fbeecc227ddd0e",
+"Balance": "937.527.552.742.176"
+},
+{
+"HolderAddress": "0xb49e6b8fc44a93597679981ccb3601f10d4c6a51",
+"Balance": "163.487.521.846.527"
+},
+{
+"HolderAddress": "0xb4a2ec8e193c9c614369c4168e7c8afce33101e4",
+"Balance": "170.155.730.013.085"
+},
+{
+"HolderAddress": "0xb560206cebb64fd4d781ec4be245b145981322e7",
+"Balance": "120.967.336.650.301"
+},
+{
+"HolderAddress": "0xb5fba896b5066a9e9f773d4c6bfc46f8e25284f1",
+"Balance": 0.723094409634531
+},
+{
+"HolderAddress": "0xb60fae68a50f804705a12d9e8ddcbb36ee18c4c9",
+"Balance": 0.131874671870774
+},
+{
+"HolderAddress": "0xb6923e220a3641f8d16a69fbc549be6c72047f7f",
+"Balance": "270.039.353.478.224"
+},
+{
+"HolderAddress": "0xb6aef30d6f8b72fade2054e460a50f774f98da33",
+"Balance": "126.647.330.230.702"
+},
+{
+"HolderAddress": "0xb6dd3983fbfaa0a08717c45df3f518298bd08873",
+"Balance": "110.385.135.227.487"
+},
+{
+"HolderAddress": "0xb7089487720024850ffa5a59ce12b0714ab3ddbe",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xb7140022e919c902ac87a2b7aced8e430edd7f79",
+"Balance": 0.130260246854136
+},
+{
+"HolderAddress": "0xb7145cd8fd0ac214db1308eee2995efa93675e76",
+"Balance": "2,83E+08"
+},
+{
+"HolderAddress": "0xb731dd19c7b3db86f25e8cf72a6ff05f77762b2d",
+"Balance": "308.194.917.161.934"
+},
+{
+"HolderAddress": "0xb7574e787c1e28e512b289037c86016a239945c1",
+"Balance": 0.136067850595566
+},
+{
+"HolderAddress": "0xb774b8d2967f3694c3de21e0edd2c6c8281ffb85",
+"Balance": "109.686.967.078.339"
+},
+{
+"HolderAddress": "0xb7c47b5791b73174f6cc90c92f1be24966cc53a0",
+"Balance": 0.30066414659175
+},
+{
+"HolderAddress": "0xb7f9cd2b371b2ecc71210df3f1ce5df7333d27e4",
+"Balance": "167.006.891.161.498"
+},
+{
+"HolderAddress": "0xb800c0fb71cc462da98221c2ee233a1a80c0a6da",
+"Balance": "656.188.637.175.443"
+},
+{
+"HolderAddress": "0xb81e467d133e9dcbc87ec347d88e23b5b86555b6",
+"Balance": "162.760.403.904.534"
+},
+{
+"HolderAddress": "0xb8260ba1db3078f44b620929a0da3f2e4ea04c87",
+"Balance": "536.377.488.099.426"
+},
+{
+"HolderAddress": "0xb8c0a08f3f18b804c50a7c9fa64fb6fa289ff027",
+"Balance": "550.154.551.852.577"
+},
+{
+"HolderAddress": "0xb8d0626f5aa9503de40cf535fb663f3bbe99660c",
+"Balance": 0.132693223543519
+},
+{
+"HolderAddress": "0xb946cc36e1785546e2c87bfc956134cfb988343f",
+"Balance": "162.387.224.490.708"
+},
+{
+"HolderAddress": "0xb96faea793941cb22501f624d050baf699413dec",
+"Balance": "171.944.954.225.919"
+},
+{
+"HolderAddress": "0xb9b81118136eef1484664f4ac79eb42afac6eb25",
+"Balance": "165.268.327.360.308"
+},
+{
+"HolderAddress": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+"Balance": "151.128.319.888.539"
+},
+{
+"HolderAddress": "0xba637c7f42470561dcf609ca673550ee6832cf63",
+"Balance": "352.019.667.783.799"
+},
+{
+"HolderAddress": "0xbaebb41cfe34701a697824776d1cd60c3ed742f1",
+"Balance": "165.302.063.225.646"
+},
+{
+"HolderAddress": "0xbb03422751cda834dd609d9e1a12230ee5125805",
+"Balance": "168.011.298.232.106"
+},
+{
+"HolderAddress": "0xbb60d1b836fdffb7d7fbc0b71d1815d8889b38b2",
+"Balance": 0.135427982011441
+},
+{
+"HolderAddress": "0xbb64703c0487fcd073d47c23b0f01f207614125d",
+"Balance": "373.084.241.792.237"
+},
+{
+"HolderAddress": "0xbbbabdcd0f72cda2f634ed911a021cf23071fac7",
+"Balance": "3.426.184.951.917"
+},
+{
+"HolderAddress": "0xbbeede6c773ad456e66bcc9fe61cc695dc8b0cdf",
+"Balance": 0.130235717172156
+},
+{
+"HolderAddress": "0xbc49ff8365a5598124e0d591fc29e32fdd6241df",
+"Balance": "110.217.661.840.431"
+},
+{
+"HolderAddress": "0xbc57e26eee104b767956e443966108ba3c5db444",
+"Balance": "248.054.479.839.917"
+},
+{
+"HolderAddress": "0xbc7c182840eb7ee42b4fd6a8add17f2045ffdb15",
+"Balance": "133.577.688.363.638"
+},
+{
+"HolderAddress": "0xbc80db23fc2708ba679a57ba78911887d7731572",
+"Balance": "317.499.414.249.518"
+},
+{
+"HolderAddress": "0xbc9d81997e612975c5dcdeb114094de922522b38",
+"Balance": "550.642.346.326.427"
+},
+{
+"HolderAddress": "0xbcbeaf007470cbdf608c5755d9b8692343d2cb6f",
+"Balance": "202.512.098.914.267"
+},
+{
+"HolderAddress": "0xbcde384a794f9d98adabc6beead1f842844b04d4",
+"Balance": 0.135467185135579
+},
+{
+"HolderAddress": "0xbcf548629cf5908e2dd2b3d782a3b09bf8788121",
+"Balance": 0.722972415658942
+},
+{
+"HolderAddress": "0xbd5028852c6f908e1d711aec6e277c4e6f82b14e",
+"Balance": "147.776.654.161.273"
+},
+{
+"HolderAddress": "0xbd5500787388d525d0ad80d5ba1ad1d7a2cfd82a",
+"Balance": "646.239.467.981.304"
+},
+{
+"HolderAddress": "0xbd5703857b536a0baf7a439b8743c9329ec0efba",
+"Balance": "224.029.793.232.287"
+},
+{
+"HolderAddress": "0xbdd974c9081b38392fc2ea125f933666f0cb25b7",
+"Balance": "10.009.785.992.673"
+},
+{
+"HolderAddress": "0xbde65188db509fcd53dd251daf30f644b3a6e582",
+"Balance": 0.133132207435441
+},
+{
+"HolderAddress": "0xbdfa77a646b058b0dadf31583c1e7d74148f01aa",
+"Balance": 0.133080748950518
+},
+{
+"HolderAddress": "0xbe032ef2df3c5a907e8f4a78bb74e8a5a8d0145e",
+"Balance": 0.137177686064338
+},
+{
+"HolderAddress": "0xbe0bfa8da7f0602bcfe24c72e5e265ae204f5983",
+"Balance": "706.058.472.327.818"
+},
+{
+"HolderAddress": "0xbe1c11e2c777002aa2dc21a38fd06d00b513d0ed",
+"Balance": "6,53E+06"
+},
+{
+"HolderAddress": "0xbe89d57e0515a2d49e1f0f7335c201bf30abdb5a",
+"Balance": 0.133270551283191
+},
+{
+"HolderAddress": "0xbed7894de95a8216e84d9ef582b786ac30a752ca",
+"Balance": "167.060.151.291.808"
+},
+{
+"HolderAddress": "0xbf83edba541786fe221beb20c81d2fefe5cfee2b",
+"Balance": "889.862.736.295.077"
+},
+{
+"HolderAddress": "0xbf87a3b975705809fad47a149850828b4a433f5e",
+"Balance": "185.685.088.521.519"
+},
+{
+"HolderAddress": "0xbfd139dd89b84f45d9ed02bbf743f584da44f4fe",
+"Balance": "148.174.312.062.135"
+},
+{
+"HolderAddress": "0xc01c2956231963ed3daf454ede53c3764bca1f68",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xc03c26e3dae3609b5963006ee9c1800c7c624a4f",
+"Balance": "476.440.477.205.191"
+},
+{
+"HolderAddress": "0xc048f18492765d6ad581977911363e4248d01880",
+"Balance": "31.749.977.010.063"
+},
+{
+"HolderAddress": "0xc13356044c6604ece807607c238a3a45ffdc9096",
+"Balance": "103.021.947.991.627"
+},
+{
+"HolderAddress": "0xc1399cbabce331739cc8b86368671d8e3ef4c397",
+"Balance": 0.132172355448815
+},
+{
+"HolderAddress": "0xc17e19c7196372c2e0391a2e2b9dffdcc2408e2f",
+"Balance": "526.985.183.512.802"
+},
+{
+"HolderAddress": "0xc1b3e1407c7a8286487bebdb1f305c834e6d338b",
+"Balance": "346.057.436.449.914"
+},
+{
+"HolderAddress": "0xc2312caad523dab7d412b6ca8b8d72b58839d20f",
+"Balance": "738.931.174.579.082"
+},
+{
+"HolderAddress": "0xc2ba2b009a9a8f12fdabed184412120fb072d620",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xc2bdec89bc96b3d3779e03d7625e29a3ec8141ae",
+"Balance": "143.662.163.447.137"
+},
+{
+"HolderAddress": "0xc36a3f94486c0ea0beadc5e5d0a0177c49f3d630",
+"Balance": "12.054.936.491.908"
+},
+{
+"HolderAddress": "0xc3f8d7ef9946a6cad5de2120bf47accfb225364d",
+"Balance": "350.815.897.604.584"
+},
+{
+"HolderAddress": "0xc4f107089a02e5b3e52b99f73d19edb99e68dcc9",
+"Balance": "118.755.295.062.509"
+},
+{
+"HolderAddress": "0xc530f123c2ee8d6ea17a31ab0a46ae206ede9999",
+"Balance": 0.132133500148257
+},
+{
+"HolderAddress": "0xc545cd69fd96d434785b84206c3730f3951be5e4",
+"Balance": 0.132711210620172
+},
+{
+"HolderAddress": "0xc5718ddf9f7bd591ba0d77340c4bc363221bc188",
+"Balance": "432.565.360.740.751"
+},
+{
+"HolderAddress": "0xc59863dd25249900fee438ddddd4825663229250",
+"Balance": 0.131876550492861
+},
+{
+"HolderAddress": "0xc59fca9f5bc31c83e995bc34a8cbc00349bdb667",
+"Balance": "754.106.296.994.095"
+},
+{
+"HolderAddress": "0xc5ab97ee3048ae3b3430ae8e7ce2c0cc09fe44de",
+"Balance": "326.982.852.241.665"
+},
+{
+"HolderAddress": "0xc5b41fb105883bcd59ceef072b5b6bdbc5df31da",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xc5e05059b79c4667f44d36b046727a86e7ea0bcb",
+"Balance": 0.723082821975413
+},
+{
+"HolderAddress": "0xc6b265e89a6de2f3bd05a230ec5242b785b4731c",
+"Balance": "1.605.222.345.285"
+},
+{
+"HolderAddress": "0xc6babf028d153f39b2f6335b3913a1ef56d564dd",
+"Balance": "100.000.036.236.038"
+},
+{
+"HolderAddress": "0xc6bc08be440095ae87ec81e0e26d55b1f846c54b",
+"Balance": 0.13323268556404
+},
+{
+"HolderAddress": "0xc6e2d168797fc2d0e6a63e2c30f71ef8b1d1c824",
+"Balance": 0.134338071062682
+},
+{
+"HolderAddress": "0xc71e1f808b691b4ca955ebaf46eab5430189e212",
+"Balance": "195.412.629.457.585"
+},
+{
+"HolderAddress": "0xc72d8eec66c0c65d37d6a00d04bc8139de8dc495",
+"Balance": 0.27265666245198
+},
+{
+"HolderAddress": "0xc75cc058a3a03bffc3559d753b6923496e6665d9",
+"Balance": "178.722.527.346.121"
+},
+{
+"HolderAddress": "0xc7f4cdb175b1885e95b8f49ccbbd3f929ab7d1ba",
+"Balance": "145.787.632.918.666"
+},
+{
+"HolderAddress": "0xc86a24b95e34ad68584cd8a3323f87d64f474225",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xc8927b30214f8a658e91d13421c70971db02b42e",
+"Balance": 0.131916214076688
+},
+{
+"HolderAddress": "0xc896448492786bd48e65d1b4fb1035247b00b43c",
+"Balance": "539.524.513.691.608"
+},
+{
+"HolderAddress": "0xc8b93c4079841353760dc7d268490ed61040d91c",
+"Balance": "13.867.290.062.521"
+},
+{
+"HolderAddress": "0xc950cc20b4a6afab770c2e4073d6f90f8981fa0f",
+"Balance": "133.877.957.517.546"
+},
+{
+"HolderAddress": "0xc9628c1996d90b79452e670486a4a595de6b2edc",
+"Balance": "149.514.473.860.255"
+},
+{
+"HolderAddress": "0xca07237e436f451afb66a38f017ce552b76440aa",
+"Balance": "690.997.609.114.361"
+},
+{
+"HolderAddress": "0xca174f1b6707381d0f278d515bc3fe115f8c0b27",
+"Balance": "15.982.924.370.101"
+},
+{
+"HolderAddress": "0xca205f73d3c0068076ddc71b447622303250c766",
+"Balance": "268.532.688.920.071"
+},
+{
+"HolderAddress": "0xca2e350fadc1b4129cd9fe4a6f4ddcd2f5ca11c0",
+"Balance": "600.782.023.206.536"
+},
+{
+"HolderAddress": "0xca4a00c67d939640332fe2f83eb0c41c52f989c1",
+"Balance": "138.752.525.608.343"
+},
+{
+"HolderAddress": "0xca7c244ae82840f99bc8d7378bfd033f64d013e0",
+"Balance": "162.317.029.803.238"
+},
+{
+"HolderAddress": "0xcb0a08df15d76a156b59020f872109e2984f7b8f",
+"Balance": "322.250.387.914.133"
+},
+{
+"HolderAddress": "0xcb3ddc70da2b304d44df27b28b988f3963c56a1a",
+"Balance": 0.00873200889979851
+},
+{
+"HolderAddress": "0xcc72f64021d149d865f98df5dfa3a4457f446fb8",
+"Balance": 0.131728712820283
+},
+{
+"HolderAddress": "0xccf85d5d9a4ab9544cfabeeaf75cf9f33e356e04",
+"Balance": "100.360.356.765.593"
+},
+{
+"HolderAddress": "0xcd047a95ec0ea962500181cab5d6d4dae2692bbe",
+"Balance": "774.938.179.481.405"
+},
+{
+"HolderAddress": "0xcd45728b073b1568a9f94f3af453b9c28105f779",
+"Balance": "241.436.826.428.661"
+},
+{
+"HolderAddress": "0xcdb568b33703345de96e751edfadb05c1d025088",
+"Balance": "276.562.464.967.471"
+},
+{
+"HolderAddress": "0xcdbc352569ac123a54f0a68e759cbfa9a941f23c",
+"Balance": "200.397.499.212.189"
+},
+{
+"HolderAddress": "0xcde0c494e5589332d17adcef738ec51c842fe531",
+"Balance": 0.580832985927982
+},
+{
+"HolderAddress": "0xce371151275ac78a857ab7b248f67ed1ea0d7ae0",
+"Balance": "192.828.695.492.553"
+},
+{
+"HolderAddress": "0xce88686553686da562ce7cea497ce749da109f9f",
+"Balance": "972.959.134.909.094"
+},
+{
+"HolderAddress": "0xcece5bafda337d3a98cca669e022c751547cc1c4",
+"Balance": "178.546.347.128.391"
+},
+{
+"HolderAddress": "0xceda45d4c10b51f0cf6608c6cd5810bd5792a8a9",
+"Balance": "20.303.352.891.917"
+},
+{
+"HolderAddress": "0xcfc7608cabb55532dd67f258135a6d29b029d441",
+"Balance": "123.881.457.227.074"
+},
+{
+"HolderAddress": "0xcfebb1492b7c9cc0321bd3f2bd520291199f48ed",
+"Balance": "352.241.289.138.354"
+},
+{
+"HolderAddress": "0xd00871bcf484d2efbbdb8bca38992dd47fcb5b8d",
+"Balance": "143.335.039.186.637"
+},
+{
+"HolderAddress": "0xd02d00a7a1faabc9fe5dcbecf545123e9277e32b",
+"Balance": "224.791.979.336.966"
+},
+{
+"HolderAddress": "0xd08fbab0251cf7d037a1a2266c506966f9e0734e",
+"Balance": 0.786932953632508
+},
+{
+"HolderAddress": "0xd0d1c35e385677437b308450533ba5120c216214",
+"Balance": "532.452.077.952.662"
+},
+{
+"HolderAddress": "0xd0e7f9f5582b4066a3c63eff8ff0e7a8a9a13590",
+"Balance": "515.230.961.150.394"
+},
+{
+"HolderAddress": "0xd0ef3a2ae7fb496c0897400f1be46693b6183b0a",
+"Balance": "33.699.770.876.895"
+},
+{
+"HolderAddress": "0xd17013698a5aeb2db9c254d46049b92240bdc874",
+"Balance": "76.412.065.452.305"
+},
+{
+"HolderAddress": "0xd1922026ec4b9b9a6deaf45a067e6b52e14cb002",
+"Balance": "500.717.255.747.151"
+},
+{
+"HolderAddress": "0xd22975b27b7389a59bb9358e69e9878ac19d1689",
+"Balance": "505.189.864.592.323"
+},
+{
+"HolderAddress": "0xd22b59f6f5edb52561a9937520b7d886dfa62e25",
+"Balance": "748.302.080.097.538"
+},
+{
+"HolderAddress": "0xd384d537a58e1d375ad1cf2f5ad99ea3f2419fd4",
+"Balance": "729.962.981.456.656"
+},
+{
+"HolderAddress": "0xd3f2b3a70152c1238f945e850cbbccf426ea734a",
+"Balance": 0.132341671495832
+},
+{
+"HolderAddress": "0xd406c6634296e67a13db408f92904b98cc0a3a17",
+"Balance": "168.557.505.768.182"
+},
+{
+"HolderAddress": "0xd412b18d80695cec99f0836d59cfc032825541e3",
+"Balance": "268.100.396.411.033"
+},
+{
+"HolderAddress": "0xd4834f4071525a5672e17cd6644ce72559a34338",
+"Balance": "257.926.596.388.993"
+},
+{
+"HolderAddress": "0xd4d25b042fa02849511c403655c5523c21543702",
+"Balance": "102.427.108.474.513"
+},
+{
+"HolderAddress": "0xd512137935e8a75f678f4a8853378f3de05dada0",
+"Balance": 200
+},
+{
+"HolderAddress": "0xd587e16fc003eecc7820b364ae637d9c92b994f6",
+"Balance": 500
+},
+{
+"HolderAddress": "0xd5ab62649a0c85a3ee3ff4fe0408a696703c8b77",
+"Balance": 0.136260459303668
+},
+{
+"HolderAddress": "0xd5d732145c57714a5679f81e6d89c8ec81ff1c5a",
+"Balance": 0.00305483741091283
+},
+{
+"HolderAddress": "0xd5e12ddcbc920e84fa5fe778bbe53f66896933f1",
+"Balance": "163.632.472.934.894"
+},
+{
+"HolderAddress": "0xd5f3387ba6c1efddfc536c0cfa5da2ea1db06afb",
+"Balance": 0.552719184383671
+},
+{
+"HolderAddress": "0xd618ac579f9e9c27a16357fe8f1d70b1d22d34b9",
+"Balance": "178.697.378.879.807"
+},
+{
+"HolderAddress": "0xd620a62a771b6b9904e3471348f2ee88c9d4ebe4",
+"Balance": "794.378.590.708.574"
+},
+{
+"HolderAddress": "0xd64d9f5b9050a634ef9d0089d22766a36ca8a2aa",
+"Balance": "149.515.048.399.843"
+},
+{
+"HolderAddress": "0xd661570546cfceccb801c02bd043248a36cfbc99",
+"Balance": "541.445.721.098.919"
+},
+{
+"HolderAddress": "0xd67b3f92f92aa4c54f3e91701a89eb34424be293",
+"Balance": 0.722953842123218
+},
+{
+"HolderAddress": "0xd72dd1b1e29209ada6b0953cfea333bbbfe9c200",
+"Balance": "150.498.538.983.771"
+},
+{
+"HolderAddress": "0xd7dcedabd8bb83e889751a62156f558be2b6eaad",
+"Balance": "1,31E+08"
+},
+{
+"HolderAddress": "0xd87b2a559a1f6ac38a53e4ed41c3a704b0511465",
+"Balance": "14.881.490.719.748"
+},
+{
+"HolderAddress": "0xd970bc655d7a0cecd617af654c0f0397c6b9a593",
+"Balance": 0.873366231564849
+},
+{
+"HolderAddress": "0xd9dfbc51dd3fd06acaea9846b7ef3409a7e57ca1",
+"Balance": "258.230.125.597.797"
+},
+{
+"HolderAddress": "0xda4b7de4dac32518d3e1208c2dc0dd8e5cf0c280",
+"Balance": "6,91E+08"
+},
+{
+"HolderAddress": "0xda7bd4aa3da868fd2e7e49efd320f0389c590681",
+"Balance": "317.499.218.304.757"
+},
+{
+"HolderAddress": "0xdaa8914c87c66c2cfdab6963d72d8eee6db6449d",
+"Balance": "780.817.640.518.345"
+},
+{
+"HolderAddress": "0xdad2480084db08cf1f934c9521b9477036d3fc97",
+"Balance": "499.923.236.378.932"
+},
+{
+"HolderAddress": "0xdad807f898e68b9ff6147e7ff45b438b02ddb96f",
+"Balance": "300.004.157.192.841"
+},
+{
+"HolderAddress": "0xdb166a18edb8e7b92e2039aa5200a3605c227173",
+"Balance": "138.954.648.978.024"
+},
+{
+"HolderAddress": "0xdb350a40eeba7437daa865a4d38c97695a49ac79",
+"Balance": "58.488.767.595.289"
+},
+{
+"HolderAddress": "0xdb6335ac61d1e2e1848a05fe7708c021fcb04794",
+"Balance": "257.333.230.663.985"
+},
+{
+"HolderAddress": "0xdb774929966716f6b0b054f794db37e4b44db1ea",
+"Balance": "126.995.113.923.127"
+},
+{
+"HolderAddress": "0xdbce84601d492c0bf31b9ef9ec29d14cf7b0e77e",
+"Balance": "178.678.199.646.654"
+},
+{
+"HolderAddress": "0xdc0c77110c84ff10426417001ee13b2315728143",
+"Balance": 0.607133562815348
+},
+{
+"HolderAddress": "0xdc29b78c55e674742bdbdaed14002bdf923b1657",
+"Balance": "31.750.010.248.219"
+},
+{
+"HolderAddress": "0xdc615c8b3d2e5811dfec2c3c820b54a524a1ccc3",
+"Balance": "235.719.078.965.635"
+},
+{
+"HolderAddress": "0xdcdf1c5c80ef4244a30fc84e39c6dcf5d60e82fa",
+"Balance": "151.662.650.561.716"
+},
+{
+"HolderAddress": "0xdd6d946ea8be1f7bae1b0e22b921bd0734790277",
+"Balance": "163.472.123.705.004"
+},
+{
+"HolderAddress": "0xdd8d5dfde75d2172c3c291f9411a25d713ec9f2c",
+"Balance": 0.137336120226321
+},
+{
+"HolderAddress": "0xddd5eff8001402ebbcf80d1eccd1b9a6f801e6aa",
+"Balance": "168.252.149.128.606"
+},
+{
+"HolderAddress": "0xde258ee5430e4f2b79b1af269bbedc3fff89011a",
+"Balance": "178.739.545.094.222"
+},
+{
+"HolderAddress": "0xde4ece845e1a6f2da9f203ed7cfdd22a191843b8",
+"Balance": "163.378.593.838.364"
+},
+{
+"HolderAddress": "0xdf00a94c9c7f68b555a902f5d34a820979028111",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xdfbff902bc85bda9050e80f82857edffdb57ac43",
+"Balance": "200.156.679.573.093"
+},
+{
+"HolderAddress": "0xdfe66b7dd823531f32e002209d6ccd5552c6c356",
+"Balance": "295.836.091.872.973"
+},
+{
+"HolderAddress": "0xdff92a1d3c7832cbcc762ee5f326679dd801648e",
+"Balance": "129.731.809.582.769"
+},
+{
+"HolderAddress": "0xe035d6d2bcade754982085f8a52662277f8d8c0d",
+"Balance": "150.169.741.705.541"
+},
+{
+"HolderAddress": "0xe05e5cd3b8d480ad9dddbce18c4a42243cb67548",
+"Balance": 0.723143719769744
+},
+{
+"HolderAddress": "0xe08d5ea1f08b64d128ed258ef8e9bf1dab25d20c",
+"Balance": "173.945.146.327.642"
+},
+{
+"HolderAddress": "0xe11ad4d81aac2fcdbf123f7a08286c265fd1f827",
+"Balance": "254.276.827.746.809"
+},
+{
+"HolderAddress": "0xe131ae7152b4536cc4bc725944347ae36f562fc1",
+"Balance": "297.711.549.533.527"
+},
+{
+"HolderAddress": "0xe197c675aff835553d94bebb4c396d4368de5220",
+"Balance": 0.135572416820447
+},
+{
+"HolderAddress": "0xe19c152136fb1ba5dbc2e2872bf081baa0751172",
+"Balance": "266.583.809.345.525"
+},
+{
+"HolderAddress": "0xe1d43e69da56c919e900ab313025b061ef44b22a",
+"Balance": 0.722817254874406
+},
+{
+"HolderAddress": "0xe219811e7715cb1033df865479a685bb619ce762",
+"Balance": 0.131940450099623
+},
+{
+"HolderAddress": "0xe227c3cb453a040f64fc51b50a7fb27c25305742",
+"Balance": "313.088.000.069.026"
+},
+{
+"HolderAddress": "0xe30ebfb6f93c88b22ed079254d7829708ee09900",
+"Balance": "793.979.001.245.702"
+},
+{
+"HolderAddress": "0xe3acb42196ad9182507774256dd1037d453c1fca",
+"Balance": "968.209.118.622.216"
+},
+{
+"HolderAddress": "0xe3b9878690b92166cf4ab71e6935bb4ecb1ee83a",
+"Balance": "519.600.452.295.901"
+},
+{
+"HolderAddress": "0xe43ab089ae56b0f4aa04930d4e0b029d12e6dc99",
+"Balance": 0.132226754892546
+},
+{
+"HolderAddress": "0xe4471279812d283e9285c8c4a1fc1c42c64adaf6",
+"Balance": "341.222.097.011.611"
+},
+{
+"HolderAddress": "0xe4e6fe3d54863cda33e0ad5319e4ec6bc0a61269",
+"Balance": "508.901.868.817.495"
+},
+{
+"HolderAddress": "0xe51212f5fea0d4d0c44f9e8f8b0f5ccef499c963",
+"Balance": "714.419.884.739.948"
+},
+{
+"HolderAddress": "0xe540c45c504b348ad4d6eb9344e6cfa07c959be6",
+"Balance": "466.929.989.684.008"
+},
+{
+"HolderAddress": "0xe598c65f960a8c39b539f31cabf2c28f1567fd54",
+"Balance": "863.123.138.205.166"
+},
+{
+"HolderAddress": "0xe640b7c0d3fcaabf4058610cdc33214a060de9c1",
+"Balance": "14.531.777.612.794"
+},
+{
+"HolderAddress": "0xe6d10ebc236f75df5dad46be66f4b3380763c8f1",
+"Balance": 0.131189068668673
+},
+{
+"HolderAddress": "0xe71c9fc7f58baa5501f8f64c0b7b8fb11b7bdcd9",
+"Balance": "964.768.704.957.689"
+},
+{
+"HolderAddress": "0xe75c50aba1e857539212f816d4d95f89fb32ff57",
+"Balance": "218.560.186.046.198"
+},
+{
+"HolderAddress": "0xe81732898ed0d1cee9a3dc90def3866a1cdf471d",
+"Balance": "169.273.066.862.716"
+},
+{
+"HolderAddress": "0xe87065531a9b6636504d60c72b86df7d05c430b2",
+"Balance": "976.889.392.957.905"
+},
+{
+"HolderAddress": "0xe8aea7186e064eda2aca269c3ccdd5c1acf2a8b5",
+"Balance": "200.676.034.764.777"
+},
+{
+"HolderAddress": "0xe9098280d56787782221609aec404a4346149d26",
+"Balance": "126.987.727.734.825"
+},
+{
+"HolderAddress": "0xe9499dc96c4d9251ee876a0f29a237cb774a7395",
+"Balance": 0.132679360466828
+},
+{
+"HolderAddress": "0xe9736bd62bec55081a758ca6836a58a83acd361e",
+"Balance": "200.810.726.106.802"
+},
+{
+"HolderAddress": "0xe97fecebde0e222c4dfded8f9da7a8dd8f8559bb",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xe9845bd62504058f558559ddfafa1e348b4bc9c6",
+"Balance": 0.607106275112334
+},
+{
+"HolderAddress": "0xe99791818fa6225a37768670ba6ec177103894d9",
+"Balance": 0.72305777297873
+},
+{
+"HolderAddress": "0xea2048b7cf6831e307ea80ee960b03d4422dda65",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xea2bc83de3dc41ed345843ea5e8b3eabd32b9594",
+"Balance": 0.132389681361508
+},
+{
+"HolderAddress": "0xea6287746232bbb42b529fdb6762c87b06246e9e",
+"Balance": "572.947.703.074.977"
+},
+{
+"HolderAddress": "0xeab4aa89ac11d6878d5337623096b3826fc95b88",
+"Balance": "100.462.361.053.127"
+},
+{
+"HolderAddress": "0xeac13958ce2de87369fd94dbf5aebaffb6c27693",
+"Balance": "223.270.462.989.187"
+},
+{
+"HolderAddress": "0xeaf8e27d4a4f0ae7cd146557fecc83ef5e722d53",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xeb11bdb24c9bb0928d98b490dd64e06e5b21e00a",
+"Balance": "174.713.220.223.498"
+},
+{
+"HolderAddress": "0xeb451a8c1a8d6ff0cd32f3f10e3513977e8c13df",
+"Balance": "731.949.558.868.059"
+},
+{
+"HolderAddress": "0xeb4d8ee709d0be7cfe3fae823d731bd55fd47379",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xec0847f840d3c6429acc6da2612e9f05ad8e9882",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xec12693218f52de763fb1b1837c576ef4fc2e3eb",
+"Balance": "163.769.871.518.756"
+},
+{
+"HolderAddress": "0xec576a26335de1c360d2fc9a68cba6ba37af4a13",
+"Balance": "207.185.999.999.992"
+},
+{
+"HolderAddress": "0xec5c0f3fac5a5d5cdae894361dce1e83fb036f62",
+"Balance": "1.620.738.704.907"
+},
+{
+"HolderAddress": "0xec60479a83c541be8ee05c9be71c5fe2a20eccb8",
+"Balance": "157.258.642.634.835"
+},
+{
+"HolderAddress": "0xec73e95e6d246c2c572fafacd84908397c4e8e20",
+"Balance": "15.081.998.009.861"
+},
+{
+"HolderAddress": "0xecaa758ea35adf7a07b672be9753ae285dbcccb7",
+"Balance": "252.589.940.309.125"
+},
+{
+"HolderAddress": "0xecda3da17ec51e3f04a8937120cc60b8e17f73d5",
+"Balance": "103.759.981.451.621"
+},
+{
+"HolderAddress": "0xed14dbdc209c6ab64d26e3bf8f3cc3d577ef696e",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xedc79593227ad13b2498ce8887eaf6ba62a27159",
+"Balance": 250
+},
+{
+"HolderAddress": "0xede064f9a72ef415ed67f5c560d6e00ba78c266b",
+"Balance": "317.498.816.574.897"
+},
+{
+"HolderAddress": "0xedf2416fed317ac7f2d50656cecf4959ad1e7a56",
+"Balance": "255.695.154.797.792"
+},
+{
+"HolderAddress": "0xee6b851c79e480f6bf509b37064f722f22337a65",
+"Balance": "182.561.204.421.187"
+},
+{
+"HolderAddress": "0xee6eb2ae43efaf284763d15146834eb66641de46",
+"Balance": "307.204.306.068.652"
+},
+{
+"HolderAddress": "0xef7cebc516f78293644b0be9c6a3effed4ce0512",
+"Balance": "485.358.925.793.626"
+},
+{
+"HolderAddress": "0xefa4cc3d0d3fd56a82091017127e6459c9764294",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xefbe53814dc88ef71db201a06f8be7d0d81ca001",
+"Balance": 0.135398670475061
+},
+{
+"HolderAddress": "0xf08fbcf913a1916dfa2b70fb189a834651879463",
+"Balance": "166.414.162.226.303"
+},
+{
+"HolderAddress": "0xf0c4901efe39e2982e97a02d393abadd46b07b46",
+"Balance": "672.993.783.160.436"
+},
+{
+"HolderAddress": "0xf1220dbbfee8c10fa5aaa1025d614cbd72d62f20",
+"Balance": "135.441.105.890.908"
+},
+{
+"HolderAddress": "0xf148477e44e774a7637385f5238706ca22404748",
+"Balance": "178.781.646.076.034"
+},
+{
+"HolderAddress": "0xf1ef7a69fa5e767691b0b9bbf3bbe0432e3497ea",
+"Balance": "136.170.373.276.828"
+},
+{
+"HolderAddress": "0xf1ff911c9c3da4f4a8cb45ecb244017dc97d6a12",
+"Balance": 0.0134191192738634
+},
+{
+"HolderAddress": "0xf211d1166b9a07109174372fa2471e211ce7286f",
+"Balance": "746.875.571.603.345"
+},
+{
+"HolderAddress": "0xf2efc7b78168abc6a5be99e5624c64f2499d91fc",
+"Balance": "329.618.515.014.089"
+},
+{
+"HolderAddress": "0xf3141d7cac25991fc59c39b91aa317b120e07dfd",
+"Balance": "158.491.935.438.555"
+},
+{
+"HolderAddress": "0xf3787fa53fb6fa2a69f52213cdbefd5636146e59",
+"Balance": 0.132122773610873
+},
+{
+"HolderAddress": "0xf3f16b9abef29dc4e7522cc5cce3c4d09b7616b1",
+"Balance": "150.617.081.433.962"
+},
+{
+"HolderAddress": "0xf3fc1ee236e49c7335dbd5f347d6ce795afb773a",
+"Balance": 0.408826860494011
+},
+{
+"HolderAddress": "0xf41f1ea533bae1d8eafc0207719649ca9a323058",
+"Balance": "236.139.731.027.236"
+},
+{
+"HolderAddress": "0xf4c0568ce8022703901215d603a8b9131110852b",
+"Balance": "162.920.268.252.495"
+},
+{
+"HolderAddress": "0xf52df0e640922cdd3ec9aa07594718d989def870",
+"Balance": 0.135515266524039
+},
+{
+"HolderAddress": "0xf549febc54dd39516d7e761e2ab2bffb8fa30d8d",
+"Balance": "16.642.866.765.622"
+},
+{
+"HolderAddress": "0xf5b3cda4c9385358d7ea1415a0b3abe00ecd747f",
+"Balance": "792.028.600.332.788"
+},
+{
+"HolderAddress": "0xf5d767bbe080a3c4966943950070fc9c209f7efb",
+"Balance": "356.408.465.718.093"
+},
+{
+"HolderAddress": "0xf65f7cd48fc46ce7a308fa32b77772b6a4f2dc97",
+"Balance": "16.453.736.324.129"
+},
+{
+"HolderAddress": "0xf66e7ef154a6bbdc30a152ef1c2569f893d57137",
+"Balance": 1637
+},
+{
+"HolderAddress": "0xf75e04592533c375bc88f523e89b34e3cbe05810",
+"Balance": "394.996.270.842.438"
+},
+{
+"HolderAddress": "0xf7a301d2a8ddcd177f22576cd0cdf56d221649fd",
+"Balance": "178.761.336.858.643"
+},
+{
+"HolderAddress": "0xf7e6c7551d8d9bd3d1f0e3eac7cf10fcb52d1bdb",
+"Balance": "167.164.335.856.063"
+},
+{
+"HolderAddress": "0xf823c93116e1397533e6620d1c792195ddb789b1",
+"Balance": "52.298.968.179.652"
+},
+{
+"HolderAddress": "0xf88160cf79e586b28861a4c76ebbc36f2e135184",
+"Balance": 0.132183296301909
+},
+{
+"HolderAddress": "0xf8f7d40416dfd216131c5a949e0fcf1cef02fa29",
+"Balance": "156.082.757.790.017"
+},
+{
+"HolderAddress": "0xf9942e6988bd538eafbf3aa1c45cb7f6603af016",
+"Balance": 0.130325108222916
+},
+{
+"HolderAddress": "0xf9b96ec5fb1de747ee41bd2066cf3b72c456e1ac",
+"Balance": "216.674.028.322.122"
+},
+{
+"HolderAddress": "0xfa5dd0ad736c3bfe68dac6a538d7d483e6afa7dd",
+"Balance": 0.135353530780782
+},
+{
+"HolderAddress": "0xfafc2299e8576b0404f01cedc26f1a678e0d9877",
+"Balance": "198.418.780.952.942"
+},
+{
+"HolderAddress": "0xfb0097dd4cc2af2d1cf0552a3d17284601ce3998",
+"Balance": 0.13339093085086
+},
+{
+"HolderAddress": "0xfb0672f48f9b518ca188a3a44b011ed3b7e7aee3",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xfb5797d758c22c773925b0a64f227494490c0fca",
+"Balance": "16.151.794.944.457"
+},
+{
+"HolderAddress": "0xfb59cb0397302654d2d482c6865a47e997d7ce99",
+"Balance": "3,01E+06"
+},
+{
+"HolderAddress": "0xfb5ba494c40830e24888417575c4d58a8b334aee",
+"Balance": "121.113.390.305.232"
+},
+{
+"HolderAddress": "0xfb6fb821154f6c4d4dfd01fa8cb860cb07fd1ba6",
+"Balance": "246.496.642.718.027"
+},
+{
+"HolderAddress": "0xfb8b79ac3f54243c46b66294a1380f4cdfea310e",
+"Balance": "178.815.495.917.757"
+},
+{
+"HolderAddress": "0xfb8e156f2ef3def6634072b950f2a2f816014a58",
+"Balance": "201.587.235.197.079"
+},
+{
+"HolderAddress": "0xfb9a72136408d8ae6c876a803e48432ef6d15d76",
+"Balance": 0.132364125391337
+},
+{
+"HolderAddress": "0xfc253b3bd422bef273005eed684914ca3a3bb1db",
+"Balance": 0.13365775565131
+},
+{
+"HolderAddress": "0xfc6054a30a3ea6f9077d9ec9a2f51e5811c55afa",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xfc676d246de585969ac1f89f135a371f2bc0ac97",
+"Balance": "152.597.029.050.484"
+},
+{
+"HolderAddress": "0xfce3495de6e8458fd8452607d1c9a75a7c0d25f8",
+"Balance": "133.462.666.716.602"
+},
+{
+"HolderAddress": "0xfd561a7db1cfac4d060f41faf365a25653a4ac38",
+"Balance": 0.131741707192328
+},
+{
+"HolderAddress": "0xfd812c352d341b1b65b22e0048eeb8a09b79f3aa",
+"Balance": "185.208.214.988.632"
+},
+{
+"HolderAddress": "0xfdd88a45ce43e403ba0c0d6774a13b01b6f75d40",
+"Balance": "818.821.864.615.078"
+},
+{
+"HolderAddress": "0xfe95401584a1b7610dc9a1d9566dc29a507a74cd",
+"Balance": "165.233.362.253.708"
+},
+{
+"HolderAddress": "0xfed0e586cb372fd0b17ead9f8cb1347bf8a5937f",
+"Balance": "245.897.404.708.461"
+},
+{
+"HolderAddress": "0xfee6be6b5cc8cb4ee8189850a69973e774e7614e",
+"Balance": 1000
+},
+{
+"HolderAddress": "0xfeee13c929375de915fe65c0ea0cfd83237dd397",
+"Balance": "507.698.920.609.132"
+},
+{
+"HolderAddress": "0xff11ada077fcb1492da0cbea90be473266814af0",
+"Balance": 0.0168874338731737
+},
+{
+"HolderAddress": "0xffb6d3c42b07c17ed0b6be1136d2ebc599b2562e",
+"Balance": "687.485.142.240.974"
+}]
