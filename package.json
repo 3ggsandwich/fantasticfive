@@ -3,14 +3,16 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongodb": "^4.5.0",
-    "mongoose": "^6.3.0"
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15"
   },
   "name": "fantasticfive",
   "description": "Contains a small setup for connecting and inserting data in MongoDB cluster",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
