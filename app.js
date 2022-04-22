@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
     })
 
   // POST method route
-app.post('/', (req, res) => {
+app.post('/post', (req, res) => {
     res.send('POST request to the homepage')
     })
 
