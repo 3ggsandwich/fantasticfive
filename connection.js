@@ -1,19 +1,29 @@
-require('dotenv').config()
+require('dotenv').config();
+const mongoose = require(`mongoose`);
+const uri = process.env.DB_URI;
 
 const {MongoClient} = require('mongodb');
-const db = process.env.DB_NAME
-const collection = process.env.COLLECTION
+const db = process.env.DB_NAME;
+const collection = process.env.COLLECTION;
+
+mongoose.connect(uri, {useNewUrlParser: true, useUnifiedTopology: true,})
+    
+    .then(() => {
+    console.log(`Connected to mongo`);
+    })
+    
+    .catch((err) => {
+    console.log(err);
+    });
 
 async function main(){
-    const uri = process.env.DB_URI;
 
     const client = new MongoClient(uri);
 
     try {
         await client.connect();
 
-        // Make the appropriate DB calls
-
+        
         // Insert single entry
         await oneInsert(client,
             {
@@ -50,7 +60,6 @@ async function main(){
 main().catch(console.error);
 
 /**
- * Create a new Airbnb listing
  * @param {MongoClient} client A MongoClient that is connected to a cluster with the database
  * @param {Object} user The new listing to be added
  */
@@ -61,7 +70,6 @@ async function oneInsert(client, user){
 }
 
 /**
- * Create multiple Airbnb listings
  * @param {MongoClient} client A MongoClient that is connected to a cluster with the  database
  * @param {Object[]} users The new listings to be added
  */

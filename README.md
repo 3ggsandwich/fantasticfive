@@ -2,7 +2,7 @@
 
 Contains a small setup for connecting and inserting data in MongoDB cluster
 
-## Project setup
+## Start server
 ```
-node test.js
+node app.js
 ```
