@@ -37,6 +37,7 @@ app.post('/addWallet', async (req, res) => {
     }
 })
 
+// Recieve all data from mongo
 app.get('/wallets', async (req, res) => {
     try {
         const data = await PolygonScan.find();

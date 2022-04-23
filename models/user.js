@@ -1,4 +1,3 @@
-const { Timestamp } = require("bson");
 const mongoose = require(`mongoose`);
 
 const Holder = new mongoose.Schema({
