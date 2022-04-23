@@ -1,30 +1,15 @@
-// require('dotenv').config()
-// const mongoose = require(`mongoose`);
-// const uri = process.env.DB_URI;
+require('dotenv').config()
+const mongoose = require(`mongoose`);
+const uri = process.env.DB_URI;
 
-<<<<<<< HEAD
 mongoose
   .connect(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
   .then((obj) => {
-    console.log(`connected to mongo`);
+    console.log(`Connected to mongo`);
   })
   .catch((err) => {
     console.log(err);
   });
-=======
-
-// mongoose
-//   .connect(uri, {
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true,
-//   })
-//   .then(() => {
-//     console.log(`connected to mongo`);
-//   })
-//   .catch((err) => {
-//     console.log(err);
-//   });
->>>>>>> merge

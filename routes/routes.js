@@ -1,12 +1,9 @@
 const express = require('express');
-const router = express.Router();
+const app = express.Router();
 
 // Path to file excluding .js
-const User = require('./models/user.js');
-const PolygonScan = require('./models/polygonscan.js');
-
-
-module.exports = router;
+const User = require('../models/user.js');
+const PolygonScan = require('../models/polygonscan.js');
 
 app.get('/', (req, res) => {
     res.send('GET request to the homepage')
@@ -44,7 +41,6 @@ app.get('/wallets', async (req, res) => {
     try {
         const data = await PolygonScan.find();
         res.status(200).json(data);
-        console.log("Gelukt", data)
     } catch (error) {
         if (res.status == 500) res.status(500).json({
             message: error.message
@@ -55,3 +51,5 @@ app.get('/wallets', async (req, res) => {
 
     }
 })
+
+module.exports = app;
