@@ -7,7 +7,7 @@ mongoose
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(() => {
+  .then((obj) => {
     console.log(`connected to mongo`);
   })
   .catch((err) => {
