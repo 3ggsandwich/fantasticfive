@@ -1,5 +1,7 @@
 const express = require('express');
 const router = express.Router();
+
+// Path to file excluding .js
 const model = require('../models/polygonscan');
 
 module.exports = router;
@@ -13,7 +15,7 @@ router.post('/post', (req, res) => {
 router.get('/getAll', async (req, res) => {
     try{
         const data = await model.find();
-        res.json(data)
+        res.json(data);
     }
     catch(error){
         res.status(500).json({message: error.message})

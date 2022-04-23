@@ -1,4 +1,3 @@
-const { Timestamp, Int32, Decimal128 } = require("bson");
 const mongoose = require(`mongoose`);
 
 const Holder = new mongoose.Schema({
@@ -7,11 +6,12 @@ const Holder = new mongoose.Schema({
         required: true,
     },
     Balance: {
-        type: Decimal128,
+        type: Number,
     }
 });
 
-module.exports = mongoose.model('polygonscan', Holder);
+// mongoose.model(COLLECTIE, SCHEMA_NAAM)
+module.exports = mongoose.model('polygonscans', Holder);
 
 // feecollector?
 
