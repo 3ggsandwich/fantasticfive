@@ -53,7 +53,8 @@ app.get('/wallets', async (req, res) => {
 })
 
 app.get('/getAllocation/:HolderAddress', async (req, res) => {
-    try{
+
+    try {
         const data = await User.findById(req.params.HolderAddress);
         res.status(200).json(data);
     } catch (error) {
