@@ -2,8 +2,6 @@ require('dotenv').config();
 require('./controllers/connection');
 const express = require('express');
 const app = express();
-const mongoose = require(`mongoose`);
-const uri = process.env.DB_HOST;
 const port = 3000;
 
 const User = require('./models/user.js');
@@ -49,6 +47,29 @@ app.get('/wallets', async (req, res) => {
    }
 })
 
+app.get("/getWallet/:address", async (req, res) => {
+  try {
+    console.log(req.params)
+    const data = await PolygonScan.findOne({ walletAddress: req.params.address });
+    res.status(200).json(data);
+    console.log("Gelukt", data);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+});
+
+app.post("/update/:address", async (req, res) => {
+  const newAmount = req.body.amount
+
+  try {
+    console.log(req.params);
+    const data = await User.updateOne({ walletAddress: req.params.address, balances: newAmount });
+    res.status(200).json(data);
+    console.log("Gelukt", data);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+});
 
 
 app.listen(port, () => {
