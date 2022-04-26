@@ -1,11 +1,9 @@
 require('dotenv').config();
 require('./controllers/connection');
+
 const express = require('express');
 const app = express();
 const port = 3000;
-
-const User = require('./models/user.js');
-const PolygonScan = require('./models/polygonscan.js');
 
 app.use(express.json());
 
@@ -73,5 +71,5 @@ app.post("/update/:address", async (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Server listening on port ${port}`)
+    console.log(`Server running on port ${port}: http://localhost:3000/api`)
 })

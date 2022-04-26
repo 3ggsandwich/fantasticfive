@@ -1,4 +1,3 @@
-const { Timestamp } = require("bson");
 const mongoose = require(`mongoose`);
 
 const PolygonScan = new mongoose.Schema(
@@ -7,7 +6,7 @@ const PolygonScan = new mongoose.Schema(
       type: String,
     },
     balances: {
-      type: mongoose.Schema.Types.Mixed,
+      type: Number,
     },
   },
   { collection: "polygonscans" }
