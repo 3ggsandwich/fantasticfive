@@ -1,23 +1,17 @@
 const mongoose = require(`mongoose`);
 
-const Holder = new mongoose.Schema({
+const PolygonScan = new mongoose.Schema(
+  {
     HolderAddress: {
-        type: String,
-        required: true,
+      type: String,
     },
-    Balance: {
-        type: Number,
-    }
-});
+    balances: {
+      type: Number,
+    },
+  },
+  { collection: "polygonscans" }
+);
 
-// mongoose.model(COLLECTIE, SCHEMA_NAAM)
-module.exports = mongoose.model('polygonscans', Holder);
+module.exports = mongoose.model("PolygonScan", PolygonScan);
 
 // feecollector?
-
-// endStaking: {
-    //     type: Date,
-    // },
-    // allocatedRewards: {
-    //     type: String,
-    // }
