@@ -40,7 +40,7 @@ app.post('/addWallet', async (req, res) => {
 // Recieve all data from mongo
 app.get('/wallets', async (req, res) => {
     try {
-        const data = await PolygonScan.find();
+        const data = await User.find();
         res.status(200).json(data);
     } catch (error) {
         if (res.status == 500) res.status(500).json({
@@ -49,7 +49,20 @@ app.get('/wallets', async (req, res) => {
         if (res.status == 400) res.status(400).json({
             message: error.message
         });
+    }
+})
 
+app.get('/getAllocation/:HolderAddress', async (req, res) => {
+    try{
+        const data = await User.findById(req.params.HolderAddress);
+        res.status(200).json(data);
+    } catch (error) {
+        if (res.status == 500) res.status(500).json({
+            message: error.message
+        });
+        if (res.status == 400) res.status(400).json({
+            message: error.message
+        });
     }
 })
 
